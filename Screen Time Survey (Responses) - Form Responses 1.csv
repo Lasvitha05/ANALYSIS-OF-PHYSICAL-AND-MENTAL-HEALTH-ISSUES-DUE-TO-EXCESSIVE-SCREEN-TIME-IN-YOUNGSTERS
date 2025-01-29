@@ -1,0 +1,685 @@
+Timestamp,Name ,Age,Gender,"State an estimate of hours  you spend viewing screen   (TV, Phone ,computer etc.)",Have you experienced any of the following physical health effects with the increase in screen time?,Has the screen time affected you in a negative way,Do you watch screen before bed?,How much time do you spend in physical activities,How much time you take to fall asleep,Your total sleep period during night in hours (pls mention number),Do you frequently feel drowsy during the day,Screen addiction,How much restless do you get when you decrease your screen time,Rate your stress level caused due to excessive screen time,How often do you isolate yourself when viewing the screen,"Have  you experienced a week or longer of lower than usual interest in activities that you usually enjoy?
+ ( exercises, hobbies,etc)"
+11/7/2022 21:56:54,Alveena Ann Biju,22,Female,2-4 hours,Headache,Yes,Yes,30 min - 1 hour,30 min - 1 hour,7,No,3,1,3,3,No
+11/7/2022 22:02:26,Arya Johnson,22,Female,1-2 hours,"Asthenopia ( Eye strain), Headache, Back pain / Neck pain",Yes,Yes,Less than 30 min,Less than 30 min,6 hours ,Yes,1,1,1,1,No
+11/7/2022 22:02:35,Jeslie M Johnson,23,Male,4-8 hours,"Asthenopia ( Eye strain), Headache, Sleep Deprivation",Yes,Yes,1 - 2 hours,Less than 30 min,5 hours,No,4,3,4,3,Yes
+11/7/2022 22:18:50,Reshma ,24,Female,2-4 hours,"Asthenopia ( Eye strain), Headache",No,Yes,30 min - 1 hour,30 min - 1 hour,,No,3,3,2,3,Yes
+11/7/2022 22:20:31,Ann Thomas,22,Female,2-4 hours,No affects,Yes,Yes,Less than 30 min,Less than 30 min,7,No,2,2,2,3,No
+11/8/2022 9:13:40,Percival Henderson ,20,Male,4-8 hours,No affects,Yes,No,more than 2 hours,Less than 30 min,Approximately  8 hours or lesser ,No,1,1,2,1,Yes
+11/8/2022 9:14:39,Velangini Amith Reddy Gade ,22,Male,1-2 hours,"Asthenopia ( Eye strain), Headache",No,Yes,1 - 2 hours,Less than 30 min,7,No,3,4,4,4,No
+11/8/2022 9:14:43,Annie Olivia ,20,Female,2-4 hours,No affects,No,Yes,more than 2 hours,Less than 30 min,7 hours,Yes,2,1,4,1,Yes
+11/8/2022 9:16:51,TUMMA DIVYASRI ,20,Female,2-4 hours,Sleep Deprivation,Yes,Yes,Less than 30 min,30 min - 1 hour,6,Yes,4,3,3,3,Yes
+11/8/2022 9:17:48,Jyotsana Kachhap ,23,Female,1-2 hours,No affects,Yes,Yes,30 min - 1 hour,Less than 30 min,5-6hours,No,3,4,2,1,No
+11/8/2022 9:18:08,Akshay Pregada ,21,Male,Less than a hour,"Asthenopia ( Eye strain), Headache, Sleep Deprivation",Yes,Yes,30 min - 1 hour,1-2 hours,2,No,5,1,2,1,Yes
+11/8/2022 9:18:09,Vijay Kumar ,19,Male,1-2 hours,No affects,No,Yes,No physical activity,Less than 30 min,5,Yes,1,1,1,4,No
+11/8/2022 9:18:52,Munagapati Sneha Chandrika ,21,Female,more than 8 hours,Back pain / Neck pain,No,Yes,more than 2 hours,Less than 30 min,7,Yes,4,2,4,1,No
+11/8/2022 9:19:23,Shruti ,20,Female,4-8 hours,"Headache, Obesity due to sedentary lifestyle",Yes,Yes,30 min - 1 hour,Less than 30 min,7,Yes,4,4,4,3,Yes
+11/8/2022 9:19:25,Samiksha ,20,Female,2-4 hours,"Asthenopia ( Eye strain), Headache, Back pain / Neck pain",Yes,Yes,30 min - 1 hour,Less than 30 min,7 hrs,Yes,3,2,2,1,Yes
+11/8/2022 9:22:00,K Nikhithanjani ,21,Female,2-4 hours,Asthenopia ( Eye strain),No,Yes,1 - 2 hours,Less than 30 min,7,No,3,1,1,1,No
+11/8/2022 9:23:23,Florence ,22,Female,more than 8 hours,"Asthenopia ( Eye strain), Back pain / Neck pain",Yes,Yes,30 min - 1 hour,Less than 30 min,7,Yes,3,2,3,3,Yes
+11/8/2022 9:24:12,Divina T P,21,Female,2-4 hours,"Headache, Back pain / Neck pain",No,Yes,Less than 30 min,Less than 30 min,5 hours,No,3,2,2,2,Yes
+11/8/2022 9:24:14,Namrata Maddipati ,22,Female,more than 8 hours,"Asthenopia ( Eye strain), Headache, Back pain / Neck pain",Yes,Yes,Less than 30 min,30 min - 1 hour,5-6 hours,Yes,5,5,5,3,Yes
+11/8/2022 9:24:41,MNihitha,21,Female,4-8 hours,"Asthenopia ( Eye strain), Headache, Back pain / Neck pain",Yes,Yes,Less than 30 min,Less than 30 min,6-7 hrs,Yes,3,3,4,3,Yes
+11/8/2022 9:24:50,Christina Duthie ,20,Female,4-8 hours,"Headache, Back pain / Neck pain, Sleep Deprivation",No,Yes,Less than 30 min,Less than 30 min,5,Yes,2,4,2,3,Yes
+11/8/2022 9:26:25,Keren ,21,Female,1-2 hours,"Asthenopia ( Eye strain), Sleep Deprivation",Yes,Yes,Less than 30 min,Less than 30 min,20,Yes,3,3,4,3,Yes
+11/8/2022 9:27:12,HEMANTH,21,Male,more than 8 hours,"Asthenopia ( Eye strain), Headache, Back pain / Neck pain, Sleep Deprivation",Yes,Yes,1 - 2 hours,30 min - 1 hour,7,Yes,5,3,3,5,No
+11/8/2022 9:27:19,Bikki keerthana ,22,Female,4-8 hours,Back pain / Neck pain,Yes,Yes,30 min - 1 hour,30 min - 1 hour,5-6hrs,No,3,2,3,4,No
+11/8/2022 9:27:21,Manoj Abraham,22,Male,1-2 hours,No affects,No,No,more than 2 hours,Less than 30 min,5,No,3,4,1,4,No
+11/8/2022 9:27:31,AJAY TAMMULURI,20,Male,2-4 hours,"Asthenopia ( Eye strain), Headache, Back pain / Neck pain",No,Yes,Less than 30 min,Less than 30 min,6 to 7,Yes,4,3,3,4,No
+11/8/2022 9:27:53,Thabitha,20,Female,1-2 hours,"Headache, Back pain / Neck pain",Yes,Yes,30 min - 1 hour,more than 2 hours,9hrs,Yes,3,2,3,4,Yes
+11/8/2022 9:28:33,Sharan S,22,Male,more than 8 hours,No affects,Yes,Yes,more than 2 hours,Less than 30 min,6,No,4,3,4,4,Yes
+11/8/2022 9:28:39,Alex Kuriakose,21,Male,more than 8 hours,"Asthenopia ( Eye strain), Headache, Back pain / Neck pain, Sleep Deprivation, Obesity due to sedentary lifestyle",Yes,Yes,Less than 30 min,more than 2 hours,6,Yes,5,5,5,5,Yes
+11/8/2022 9:28:44,Nakka Dhatri,21,Female,2-4 hours,"Asthenopia ( Eye strain), Headache, Back pain / Neck pain, Sleep Deprivation",Yes,Yes,Less than 30 min,1-2 hours,6,Yes,4,3,4,3,Yes
+11/8/2022 9:31:06,Blessy ,21,Female,1-2 hours,Asthenopia ( Eye strain),Yes,No,more than 2 hours,Less than 30 min,8,No,1,2,3,1,Yes
+11/8/2022 9:31:34,Revanth Vaddi ,19,Male,more than 8 hours,"Asthenopia ( Eye strain), Headache, Sleep Deprivation, Obesity due to sedentary lifestyle",Yes,Yes,30 min - 1 hour,Less than 30 min,6,No,3,1,3,3,Yes
+11/8/2022 9:31:41,Aarthi.A,20,Female,more than 8 hours,"Asthenopia ( Eye strain), Headache, Back pain / Neck pain, Sleep Deprivation",Yes,Yes,Less than 30 min,30 min - 1 hour,6,No,3,4,5,1,No
+11/8/2022 9:31:51,Lohith Kumar,21,Male,2-4 hours,Headache,Yes,Yes,more than 2 hours,Less than 30 min,6,Yes,3,3,3,3,No
+11/8/2022 9:32:02,Pragada satwik,20,Male,2-4 hours,No affects,No,Yes,more than 2 hours,30 min - 1 hour,7,No,2,3,1,2,No
+11/8/2022 9:33:00,Isha meena,21,Female,more than 8 hours,Sleep Deprivation,No,Yes,No physical activity,Less than 30 min,9 - 12,No,3,3,1,2,Yes
+11/8/2022 9:33:16,Santhosh ,22,Male,more than 8 hours,"Asthenopia ( Eye strain), Headache, Back pain / Neck pain, Sleep Deprivation",No,Yes,No physical activity,Less than 30 min,8-9 hrs ,Yes,4,3,3,3,Yes
+11/8/2022 9:33:17,TEJA MOHAN KONDAMUDI ,21,Male,4-8 hours,No affects,Yes,Yes,No physical activity,Less than 30 min,6hours,Yes,3,2,3,3,No
+11/8/2022 9:33:28,Malaika ,20,Female,4-8 hours,"Asthenopia ( Eye strain), Headache, Back pain / Neck pain, Sleep Deprivation",Yes,Yes,30 min - 1 hour,more than 2 hours,6,Yes,4,2,3,5,Yes
+11/8/2022 9:33:49,Prashanth,23,Male,2-4 hours,Headache,Yes,Yes,30 min - 1 hour,30 min - 1 hour,7,Yes,3,4,3,2,Yes
+11/8/2022 9:34:02,Kunal Patil ,21,Male,4-8 hours,No affects,No,Yes,1 - 2 hours,1-2 hours,5-7,Yes,5,3,1,5,Yes
+11/8/2022 9:34:05,Sharon Natasha Francis ,20,Female,2-4 hours,"Asthenopia ( Eye strain), Headache, Back pain / Neck pain, Sleep Deprivation",Yes,No,30 min - 1 hour,30 min - 1 hour,6,Yes,2,2,4,2,No
+11/8/2022 9:34:13,Sushma T ,20,Female,4-8 hours,"Asthenopia ( Eye strain), Headache, Back pain / Neck pain, Sleep Deprivation",Yes,Yes,1 - 2 hours,30 min - 1 hour,7-9 hrs,No,3,3,4,3,Yes
+11/8/2022 9:35:42,HariPrakash ,22,Male,more than 8 hours,"Asthenopia ( Eye strain), Headache, Back pain / Neck pain, Sleep Deprivation",No,Yes,No physical activity,more than 2 hours,1⅖,No,5,3,1,5,No
+11/8/2022 9:35:47,Pearl Elisa Alexander,17,Female,2-4 hours,No affects,No,Yes,Less than 30 min,Less than 30 min,5,No,3,2,3,2,No
+11/8/2022 9:37:28,Praise John ,22,Female,4-8 hours,"Asthenopia ( Eye strain), Headache, Back pain / Neck pain, Sleep Deprivation",Yes,Yes,30 min - 1 hour,more than 2 hours,5,No,4,5,4,4,Yes
+11/8/2022 9:38:36,Aneesh,23,Male,more than 8 hours,"Asthenopia ( Eye strain), Headache, Back pain / Neck pain, Sleep Deprivation",Yes,Yes,1 - 2 hours,Less than 30 min,6 hrs,No,4,2,4,4,Yes
+11/8/2022 9:38:59,Anonymous,21,Female,4-8 hours,Asthenopia ( Eye strain),No,Yes,Less than 30 min,Less than 30 min,8 hours,No,1,1,2,2,No
+11/8/2022 9:40:07,Manukonda Narmada Reddy ,20,Female,2-4 hours,"Asthenopia ( Eye strain), Headache, Back pain / Neck pain",Yes,Yes,1 - 2 hours,Less than 30 min,8,No,2,1,5,3,Yes
+11/8/2022 9:41:06,NANCY ANNA ALEXANDER ,21,Female,2-4 hours,"Asthenopia ( Eye strain), Headache, Back pain / Neck pain, Sleep Deprivation, Obesity due to sedentary lifestyle",Yes,Yes,30 min - 1 hour,Less than 30 min,5,Yes,3,2,2,4,Yes
+11/8/2022 9:42:27,Anmol,20,Male,4-8 hours,"Asthenopia ( Eye strain), Headache, Back pain / Neck pain",Yes,Yes,30 min - 1 hour,Less than 30 min,8,Yes,3,4,2,2,No
+11/8/2022 9:43:08,Sharon Ekula,21,Female,2-4 hours,"Headache, Back pain / Neck pain",Yes,No,Less than 30 min,Less than 30 min,7,No,3,2,4,2,Yes
+11/8/2022 9:43:17,Sri harshitha,21,Female,1-2 hours,"Asthenopia ( Eye strain), Back pain / Neck pain, Sleep Deprivation",Yes,Yes,30 min - 1 hour,1-2 hours,7,Yes,1,2,2,1,Yes
+11/8/2022 9:44:16,Ganga ,17,Female,1-2 hours,Headache,Yes,Yes,Less than 30 min,Less than 30 min,7,Yes,3,1,3,2,No
+11/8/2022 9:44:18,Bibiya Susan Abraham,21,Female,2-4 hours,"Asthenopia ( Eye strain), Headache, Back pain / Neck pain",Yes,Yes,Less than 30 min,Less than 30 min,8,No,1,1,1,2,No
+11/8/2022 9:44:37,Sowmya Atluri,21,Female,more than 8 hours,"Asthenopia ( Eye strain), Headache",Yes,Yes,30 min - 1 hour,30 min - 1 hour,7,Yes,5,4,3,3,No
+11/8/2022 9:45:26,Chhaya Sahu,21,Female,more than 8 hours,No affects,No,Yes,more than 2 hours,Less than 30 min,6,No,1,3,4,3,No
+11/8/2022 9:48:07,Durga sravani ,19,Female,2-4 hours,Asthenopia ( Eye strain),No,Yes,Less than 30 min,Less than 30 min,10,No,1,1,1,3,Yes
+11/8/2022 9:50:14,Sarah,21,Female,4-8 hours,"Asthenopia ( Eye strain), Headache, Sleep Deprivation",Yes,Yes,1 - 2 hours,30 min - 1 hour,4,No,2,2,3,1,No
+11/8/2022 9:50:52,Jibi Thomas ,20,Female,4-8 hours,"Asthenopia ( Eye strain), Headache, Back pain / Neck pain",Yes,Yes,Less than 30 min,Less than 30 min,7-8,No,2,1,2,1,No
+11/8/2022 9:51:07,Cintamaria Simon ,21,Female,4-8 hours,"Asthenopia ( Eye strain), Headache, Back pain / Neck pain, Sleep Deprivation",Yes,Yes,1 - 2 hours,Less than 30 min,6,Yes,2,1,3,2,No
+11/8/2022 9:51:14,Munagapati Yetesh Kumar ,24,Male,2-4 hours,Back pain / Neck pain,Yes,No,1 - 2 hours,30 min - 1 hour,5-6,No,2,2,3,3,No
+11/8/2022 9:52:47,Jasperin,19,Female,more than 8 hours,No affects,Yes,Yes,30 min - 1 hour,30 min - 1 hour,5,Yes,5,4,2,2,Yes
+11/8/2022 9:54:14,Namrate ,21,Female,more than 8 hours,"Headache, Back pain / Neck pain, Sleep Deprivation",Yes,Yes,30 min - 1 hour,Less than 30 min,~5 hours,Yes,4,4,4,4,Yes
+11/8/2022 9:54:31,Shankar Reddy ,20,Male,4-8 hours,"Asthenopia ( Eye strain), Sleep Deprivation",Yes,Yes,1 - 2 hours,Less than 30 min,8,Yes,3,3,3,3,Yes
+11/8/2022 9:57:24,T stella jeremica ,19,Female,1-2 hours,"Asthenopia ( Eye strain), Back pain / Neck pain, Obesity due to sedentary lifestyle",Yes,Yes,Less than 30 min,Less than 30 min,6,No,3,3,2,2,Yes
+11/8/2022 9:58:40,Raj Khandelwal,21,Male,more than 8 hours,No affects,No,No,1 - 2 hours,30 min - 1 hour,7-8hrs,No,3,1,1,1,No
+11/8/2022 9:58:49,Sharif ,21,Male,4-8 hours,No affects,No,Yes,1 - 2 hours,Less than 30 min,6,No,4,3,1,3,Yes
+11/8/2022 10:03:43,Sowjanya Katta ,20,Female,more than 8 hours,Sleep Deprivation,Yes,Yes,1 - 2 hours,30 min - 1 hour,8,Yes,4,3,4,3,Yes
+11/8/2022 10:03:52,Keyuri,20,Female,more than 8 hours,"Asthenopia ( Eye strain), Headache",No,Yes,Less than 30 min,Less than 30 min,6,No,3,2,2,3,No
+11/8/2022 10:04:57,Adrija S ,21,Female,4-8 hours,Headache,No,Yes,30 min - 1 hour,Less than 30 min,5-6 hours,No,3,3,2,2,No
+11/8/2022 10:05:00,Pushpa sahu,55,Female,2-4 hours,No affects,No,No,Less than 30 min,more than 2 hours,6 hour,Yes,3,2,2,2,Yes
+11/8/2022 10:05:15,Uday Singh ,20,Male,1-2 hours,No affects,Yes,Yes,1 - 2 hours,Less than 30 min,7-8 hrs,No,3,2,4,2,No
+11/8/2022 10:05:45,Bhaskar Sai,20,Male,2-4 hours,Sleep Deprivation,Yes,Yes,30 min - 1 hour,Less than 30 min,8,Yes,3,3,3,2,Yes
+11/8/2022 10:07:37,Angela B Vazhappilly ,21,Female,2-4 hours,"Asthenopia ( Eye strain), Headache",Yes,Yes,30 min - 1 hour,Less than 30 min,6-12,No,3,1,3,3,Yes
+11/8/2022 10:07:52,Sneha Adina,20,Female,2-4 hours,Asthenopia ( Eye strain),Yes,Yes,Less than 30 min,Less than 30 min,6 - 7,No,2,1,3,3,Yes
+11/8/2022 10:12:24,Purva Jagtap,22,Female,more than 8 hours,"Headache, Sleep Deprivation, Obesity due to sedentary lifestyle",Yes,Yes,Less than 30 min,30 min - 1 hour,8,Yes,4,3,5,4,Yes
+11/8/2022 10:12:38,Vasant ,21,Male,4-8 hours,Headache,No,Yes,more than 2 hours,Less than 30 min,5,Yes,2,2,3,1,Yes
+11/8/2022 10:13:17,Diya Susan george,21,Female,2-4 hours,No affects,No,Yes,30 min - 1 hour,Less than 30 min,6 to 7 hours ,No,3,1,1,4,No
+11/8/2022 10:14:13,Likhitha,21,Female,2-4 hours,No affects,No,Yes,1 - 2 hours,Less than 30 min,7-8 hours,No,3,2,3,2,Yes
+11/8/2022 10:14:14,Keerthi,21,Female,more than 8 hours,Sleep Deprivation,Yes,Yes,Less than 30 min,Less than 30 min,6,No,4,3,3,4,Yes
+11/8/2022 10:14:23,Shivali Dey,21,Female,2-4 hours,No affects,No,Yes,30 min - 1 hour,Less than 30 min,6-7,No,2,1,1,1,No
+11/8/2022 10:14:27,Harshal Dethe ,20,Male,4-8 hours,"Asthenopia ( Eye strain), Back pain / Neck pain",No,Yes,1 - 2 hours,Less than 30 min,6-7 Hrs,Yes,2,1,5,3,Yes
+11/8/2022 10:15:39,Morla vaibhav ,21,Male,2-4 hours,"Headache, Sleep Deprivation",Yes,Yes,30 min - 1 hour,30 min - 1 hour,6,Yes,4,4,4,4,Yes
+11/8/2022 10:15:45,Aishwarya ,20,Female,4-8 hours,"Asthenopia ( Eye strain), Headache, Back pain / Neck pain, Sleep Deprivation",Yes,Yes,30 min - 1 hour,more than 2 hours,7hrs,Yes,2,4,3,2,Yes
+11/8/2022 10:16:53,Roseline,20,Female,4-8 hours,Asthenopia ( Eye strain),No,No,more than 2 hours,Less than 30 min,6,Yes,3,3,2,3,Yes
+11/8/2022 10:17:11,Hanitha Bommala,20,Female,2-4 hours,No affects,No,Yes,more than 2 hours,Less than 30 min,6-7,No,4,2,1,3,Yes
+11/8/2022 10:19:11,ROHAN RAAJ ,22,Male,4-8 hours,Asthenopia ( Eye strain),No,Yes,30 min - 1 hour,Less than 30 min,6-7 hrs,No,3,3,2,2,Yes
+11/8/2022 10:19:32,David sanjeet kumar,20,Male,more than 8 hours,"Asthenopia ( Eye strain), Headache",No,Yes,1 - 2 hours,Less than 30 min,8,No,2,3,2,4,Yes
+11/8/2022 10:22:39,Sukriti Chatterjee,21,Female,2-4 hours,"Asthenopia ( Eye strain), Headache, Back pain / Neck pain, Sleep Deprivation",Yes,Yes,Less than 30 min,Less than 30 min,Varies from 4 to 7 hrs ,Yes,3,3,2,2,No
+11/8/2022 10:23:34,Atmakuru vennela ,19,Female,2-4 hours,No affects,No,No,1 - 2 hours,Less than 30 min,More than 8,No,1,1,1,1,Yes
+11/8/2022 10:23:52,Megha ,20,Female,4-8 hours,No affects,No,Yes,Less than 30 min,Less than 30 min,4,Yes,3,1,2,1,No
+11/8/2022 10:25:57,Joel,19,Male,4-8 hours,Back pain / Neck pain,Yes,Yes,Less than 30 min,Less than 30 min,5-6 hours ,No,1,1,3,3,No
+11/8/2022 10:27:34,Harsha,21,Female,Less than a hour,No affects,No,Yes,Less than 30 min,30 min - 1 hour,8,Yes,1,1,1,3,Yes
+11/8/2022 10:27:49,Pakalapati GeorgEmmanuel ,21,Male,2-4 hours,No affects,No,Yes,Less than 30 min,more than 2 hours,7 hours ,Yes,4,3,3,3,Yes
+11/8/2022 10:28:33,Akkala Pujitha,19,Female,4-8 hours,"Headache, Back pain / Neck pain",Yes,No,Less than 30 min,Less than 30 min,8 hours,No,1,1,1,1,No
+11/8/2022 10:28:51,Dhulipalla Rupa sri,20,Female,4-8 hours,Headache,No,Yes,Less than 30 min,Less than 30 min,8,Yes,3,1,2,1,No
+11/8/2022 10:28:52,Keerthikareddychinni@gmail.com,21,Female,4-8 hours,Headache,No,Yes,30 min - 1 hour,Less than 30 min,6-7 hrs,No,4,3,3,3,Yes
+11/8/2022 10:28:59,Melvin,19,Male,2-4 hours,"Asthenopia ( Eye strain), Headache, Sleep Deprivation",Yes,Yes,1 - 2 hours,Less than 30 min,6,Yes,3,3,4,5,No
+11/8/2022 10:30:02,Lakshman J ,18,Male,4-8 hours,"Asthenopia ( Eye strain), Headache, Back pain / Neck pain, Sleep Deprivation",No,Yes,30 min - 1 hour,30 min - 1 hour,6-5,No,4,2,1,1,Yes
+11/8/2022 10:30:45,Moeesh,19,Male,more than 8 hours,No affects,No,Yes,1 - 2 hours,Less than 30 min,6,Yes,5,4,3,2,No
+11/8/2022 10:33:37,Bindu sneha,21,Female,4-8 hours,"Headache, Back pain / Neck pain",Yes,Yes,1 - 2 hours,Less than 30 min,6-7 Hours,Yes,2,2,3,3,No
+11/8/2022 10:34:29,Allan Varghese Mathew,19,Male,2-4 hours,No affects,Yes,No,more than 2 hours,Less than 30 min,7-8 hours,No,3,1,3,1,Yes
+11/8/2022 10:35:14,N Bala Prasanth ,20,Male,2-4 hours,No affects,No,Yes,30 min - 1 hour,Less than 30 min,7_8 hours ,No,3,2,3,2,Yes
+11/8/2022 10:35:50,Sam Sergius,21,Male,1-2 hours,No affects,No,No,more than 2 hours,Less than 30 min,7-8,No,2,2,3,3,No
+11/8/2022 10:35:50,Bhavya. Golagamudi ,20,Female,2-4 hours,Headache,No,Yes,Less than 30 min,Less than 30 min,8,Yes,3,1,2,3,No
+11/8/2022 10:35:59,Leenus Valantine A ,18,Male,4-8 hours,"Headache, Sleep Deprivation",Yes,Yes,1 - 2 hours,30 min - 1 hour,7,Yes,4,4,4,4,Yes
+11/8/2022 10:36:03,Dalaali shaheen ,19,Female,4-8 hours,"Headache, Sleep Deprivation",No,Yes,30 min - 1 hour,30 min - 1 hour,6,Yes,4,4,3,2,Yes
+11/8/2022 10:36:05,UA SAMUEL RAJ ,18,Male,4-8 hours,"Asthenopia ( Eye strain), Headache, Back pain / Neck pain",Yes,Yes,30 min - 1 hour,Less than 30 min,8,No,3,3,3,3,Yes
+11/8/2022 10:36:13,Cherukuri srivardhan,18,Male,2-4 hours,"Asthenopia ( Eye strain), Headache, Sleep Deprivation",Yes,Yes,30 min - 1 hour,more than 2 hours,6,No,3,3,3,3,Yes
+11/8/2022 10:36:13,Narisetty sasank ,19,Male,1-2 hours,"Headache, Back pain / Neck pain, Sleep Deprivation",No,Yes,1 - 2 hours,30 min - 1 hour,6,No,3,4,4,2,Yes
+11/8/2022 10:36:38,Agnes Chella Wanika R,19,Female,2-4 hours,"Headache, Back pain / Neck pain, Sleep Deprivation",No,No,1 - 2 hours,30 min - 1 hour,4 hrs ,Yes,3,2,3,2,No
+11/8/2022 10:36:40,Ebin Alex ,19,Male,2-4 hours,No affects,No,No,No physical activity,Less than 30 min,7,Yes,2,3,3,5,Yes
+11/8/2022 10:36:41,Tejaswini ,20,Female,2-4 hours,Sleep Deprivation,Yes,Yes,Less than 30 min,30 min - 1 hour,6 to 8,No,3,1,4,4,Yes
+11/8/2022 10:36:47,J Michael Jebaraj ,19,Male,2-4 hours,"Headache, Back pain / Neck pain",No,Yes,30 min - 1 hour,Less than 30 min,6-7,Yes,3,1,1,1,Yes
+11/8/2022 10:36:49,Jebaraj Solomon D,19,Male,more than 8 hours,Sleep Deprivation,Yes,Yes,No physical activity,Less than 30 min,Varies,Yes,5,4,4,5,Yes
+11/8/2022 10:36:57,Gugasujith M,20,Male,2-4 hours,Obesity due to sedentary lifestyle,No,Yes,30 min - 1 hour,Less than 30 min,5-6,No,3,1,2,3,No
+11/8/2022 10:37:00,B. Chris Jaron,19,Male,1-2 hours,Back pain / Neck pain,No,Yes,30 min - 1 hour,30 min - 1 hour,6,No,2,1,1,3,No
+11/8/2022 10:37:10,G.SAMSON AKASH VARMA,19,Male,4-8 hours,"Asthenopia ( Eye strain), Headache, Sleep Deprivation",Yes,Yes,1 - 2 hours,30 min - 1 hour,6,Yes,4,2,1,3,No
+11/8/2022 10:37:11,Akash Nair,21,Male,more than 8 hours,Sleep Deprivation,No,Yes,Less than 30 min,30 min - 1 hour,6,Yes,5,3,2,4,No
+11/8/2022 10:37:11,Esther ,19,Female,4-8 hours,No affects,No,Yes,1 - 2 hours,1-2 hours,5,Yes,3,2,3,2,Yes
+11/8/2022 10:37:26,SONA DAISON,19,Female,4-8 hours,No affects,No,Yes,30 min - 1 hour,Less than 30 min,6-7,Yes,3,3,3,2,No
+11/8/2022 10:37:35,RAJAT TANDEL ,18,Male,2-4 hours,No affects,No,Yes,1 - 2 hours,Less than 30 min,5,No,2,2,2,2,No
+11/8/2022 10:37:42,T.essakki pandi,19,Male,2-4 hours,No affects,Yes,No,30 min - 1 hour,1-2 hours,9,Yes,2,3,2,3,Yes
+11/8/2022 10:37:47,Jackson Selvaraj ,21,Male,2-4 hours,"Asthenopia ( Eye strain), Back pain / Neck pain",Yes,Yes,1 - 2 hours,30 min - 1 hour,5:30,No,4,3,3,3,No
+11/8/2022 10:37:47,Janet sherin,18,Female,4-8 hours,"Headache, Back pain / Neck pain",No,Yes,No physical activity,1-2 hours,6,Yes,3,3,5,5,Yes
+11/8/2022 10:37:53,Bindu ,20,Female,4-8 hours,No affects,No,Yes,Less than 30 min,30 min - 1 hour,8,No,3,3,3,3,Yes
+11/8/2022 10:38:05,LEO JOSEPH,18,Male,4-8 hours,No affects,No,Yes,more than 2 hours,Less than 30 min,6,No,3,2,2,3,No
+11/8/2022 10:38:09,Jonathan Thomas Mathews,18,Male,more than 8 hours,"Sleep Deprivation, No affects",No,Yes,1 - 2 hours,Less than 30 min,5,Yes,4,2,1,3,No
+11/8/2022 10:38:19,URK21CS2022,18,Male,2-4 hours,Obesity due to sedentary lifestyle,No,Yes,30 min - 1 hour,Less than 30 min,5 hrs,Yes,2,2,2,2,No
+11/8/2022 10:38:44,YUVRAJ N,19,Male,1-2 hours,Asthenopia ( Eye strain),No,Yes,30 min - 1 hour,30 min - 1 hour,8,No,3,2,3,3,Yes
+11/8/2022 10:38:56,ABHISHEK SARSIHA ,19,Male,1-2 hours,No affects,No,Yes,1 - 2 hours,Less than 30 min,5hrs to 6hrs,Yes,1,1,1,1,No
+11/8/2022 10:39:03,Esswari S,19,Female,4-8 hours,No affects,No,Yes,1 - 2 hours,Less than 30 min,7,Yes,4,2,2,4,No
+11/8/2022 10:42:37,R.Harshita,19,Female,2-4 hours,"Asthenopia ( Eye strain), Headache",No,Yes,1 - 2 hours,Less than 30 min,7 to 8 hours,No,3,2,2,3,Yes
+11/8/2022 10:43:14,Dawn Matthew  Varghese ,20,Male,2-4 hours,No affects,No,No,1 - 2 hours,Less than 30 min,7,No,1,1,1,1,No
+11/8/2022 10:43:58,Prince Joshua S H,19,Male,4-8 hours,"Asthenopia ( Eye strain), Headache, Sleep Deprivation",No,Yes,30 min - 1 hour,30 min - 1 hour,5 to 6 hours ,Yes,4,3,3,4,Yes
+11/8/2022 10:49:00,Tryphena Delighta,20,Female,2-4 hours,"Asthenopia ( Eye strain), Headache, Back pain / Neck pain",Yes,Yes,Less than 30 min,Less than 30 min,6 hrs,Yes,3,1,3,2,Yes
+11/8/2022 10:52:08,Aditya kumar ,21,Male,more than 8 hours,Back pain / Neck pain,No,Yes,1 - 2 hours,Less than 30 min,8,No,4,2,2,1,Yes
+11/8/2022 10:52:09,Pronomita Chakraborty ,20,Female,more than 8 hours,Back pain / Neck pain,Yes,No,Less than 30 min,Less than 30 min,8,No,3,3,3,4,Yes
+11/8/2022 10:57:36,Nikhil Solomon p,21,Male,4-8 hours,No affects,No,Yes,30 min - 1 hour,1-2 hours,4.5,No,4,3,4,3,Yes
+11/8/2022 11:00:56,Blastoise ,69,Male,2-4 hours,"Asthenopia ( Eye strain), Headache, Back pain / Neck pain, Sleep Deprivation, Obesity due to sedentary lifestyle, No affects",Yes,Yes,No physical activity,more than 2 hours,69,Yes,5,5,5,5,Yes
+11/8/2022 11:01:24,Tripti Mishra ,17,Female,Less than a hour,No affects,No,Yes,30 min - 1 hour,Less than 30 min,10pm to 5am,No,1,1,1,1,Yes
+11/8/2022 11:01:30,Chinmuanlal Nunthuk ,22,Male,4-8 hours,"Sleep Deprivation, Obesity due to sedentary lifestyle",Yes,Yes,30 min - 1 hour,1-2 hours,1,Yes,5,3,2,5,Yes
+11/8/2022 11:03:47,Siny b Joseph ,17,Female,4-8 hours,"Asthenopia ( Eye strain), Sleep Deprivation",No,Yes,Less than 30 min,Less than 30 min,7 hours ,No,2,3,1,2,No
+11/8/2022 11:03:51,Viswamohan Ramadas,21,Male,4-8 hours,"Headache, Sleep Deprivation, Obesity due to sedentary lifestyle",Yes,Yes,1 - 2 hours,Less than 30 min,7,No,3,2,3,2,Yes
+11/8/2022 11:03:58,Rishabh Nair,22,Male,Less than a hour,Sleep Deprivation,No,Yes,1 - 2 hours,30 min - 1 hour,7,Yes,5,1,1,5,No
+11/8/2022 11:04:26,G V Aditya,22,Male,4-8 hours,Asthenopia ( Eye strain),Yes,Yes,more than 2 hours,Less than 30 min,7,Yes,5,3,3,3,Yes
+11/8/2022 11:09:00,Nolan,21,Male,2-4 hours,Headache,No,Yes,30 min - 1 hour,Less than 30 min,7,No,2,3,3,2,Yes
+11/8/2022 11:13:35,Preetham,20,Male,4-8 hours,"Asthenopia ( Eye strain), Back pain / Neck pain",Yes,Yes,30 min - 1 hour,1-2 hours,6,Yes,3,2,3,3,No
+11/8/2022 11:14:03,Prakhar Sharma ,21,Male,more than 8 hours,No affects,No,Yes,1 - 2 hours,30 min - 1 hour,6,Yes,3,3,1,2,Yes
+11/8/2022 11:14:56,ADHEENA BENNY,21,Female,2-4 hours,"Asthenopia ( Eye strain), Headache, Back pain / Neck pain",Yes,Yes,30 min - 1 hour,1-2 hours,6,No,3,3,3,3,Yes
+11/8/2022 11:15:26,Aftab Kasim ,21,Male,2-4 hours,Sleep Deprivation,Yes,Yes,1 - 2 hours,Less than 30 min,7,No,3,2,2,4,Yes
+11/8/2022 11:16:03,Siri chandana ,20,Female,2-4 hours,Headache,No,Yes,1 - 2 hours,Less than 30 min,8,No,2,2,3,3,No
+11/8/2022 11:22:44,Gunasundari samuel ,52,Female,1-2 hours,Asthenopia ( Eye strain),No,Yes,30 min - 1 hour,30 min - 1 hour,5,Yes,2,1,1,1,No
+11/8/2022 11:24:27,Sushant Pawar,21,Male,2-4 hours,No affects,No,Yes,more than 2 hours,Less than 30 min,8,No,1,3,1,4,No
+11/8/2022 11:25:34,PRACHi ,17,Female,more than 8 hours,"Asthenopia ( Eye strain), Headache",Yes,Yes,Less than 30 min,Less than 30 min,5-6,No,1,2,2,1,No
+11/8/2022 11:26:57,Hamna zameer ,16,Female,4-8 hours,"Headache, Sleep Deprivation",Yes,No,Less than 30 min,Less than 30 min,8,Yes,2,2,3,2,Yes
+11/8/2022 11:32:35,B.GunaSai ,21,Male,2-4 hours,Sleep Deprivation,No,Yes,Less than 30 min,30 min - 1 hour,5 hours,No,4,3,3,3,Yes
+11/8/2022 11:39:26,Charan,20,Male,1-2 hours,No affects,No,Yes,30 min - 1 hour,more than 2 hours,5-6hours,Yes,2,4,2,3,Yes
+11/8/2022 11:42:12,Merylin Singh ,19,Female,more than 8 hours,"Headache, Sleep Deprivation",Yes,Yes,1 - 2 hours,more than 2 hours,6-5 hours,No,5,4,3,4,Yes
+11/8/2022 11:42:41,Nakka Jyothsna Akhila,23,Female,2-4 hours,No affects,No,Yes,1 - 2 hours,Less than 30 min,8hrs,No,4,5,5,2,Yes
+11/8/2022 11:42:50,Kumar,21,Male,more than 8 hours,No affects,No,Yes,30 min - 1 hour,Less than 30 min,6 hours,Yes,3,3,2,2,Yes
+11/8/2022 11:43:02,R. Sai Sandeep ,20,Male,1-2 hours,No affects,No,Yes,more than 2 hours,Less than 30 min,8 - 9 hrs,No,3,1,1,1,Yes
+11/8/2022 11:44:08,Durga Sai Pennada ,20,Male,4-8 hours,"Asthenopia ( Eye strain), Headache",Yes,Yes,30 min - 1 hour,Less than 30 min,7,No,3,3,4,2,Yes
+11/8/2022 11:44:53,Harsha Vardhan ,21,Male,4-8 hours,Asthenopia ( Eye strain),No,Yes,1 - 2 hours,more than 2 hours,7,Yes,3,2,3,3,Yes
+11/8/2022 11:45:28,Bheemavarapu devi supriya,23,Female,2-4 hours,Asthenopia ( Eye strain),No,Yes,No physical activity,Less than 30 min,6 hours,No,1,5,2,1,Yes
+11/8/2022 11:47:09,Jasmine,20,Female,4-8 hours,"Asthenopia ( Eye strain), Headache, Sleep Deprivation",Yes,Yes,more than 2 hours,more than 2 hours,5 hours,No,5,5,5,4,Yes
+11/8/2022 11:49:34,GOSPELIN REENA. E,18,Female,2-4 hours,"Headache, Back pain / Neck pain, Sleep Deprivation",No,Yes,Less than 30 min,Less than 30 min,6,No,3,2,3,3,Yes
+11/8/2022 11:50:14,Sandra Jeslena W ,19,Female,2-4 hours,"Asthenopia ( Eye strain), Headache, Back pain / Neck pain",No,Yes,30 min - 1 hour,Less than 30 min,6,No,3,1,1,3,Yes
+11/8/2022 11:51:16,Kumar ,21,Male,1-2 hours,No affects,Yes,No,1 - 2 hours,30 min - 1 hour,6-7hrs,No,4,3,2,3,Yes
+11/8/2022 11:51:50,Nakka Nikhil ,20,Male,2-4 hours,"Asthenopia ( Eye strain), Headache, Sleep Deprivation",Yes,Yes,No physical activity,Less than 30 min,6hours,Yes,3,3,3,3,Yes
+11/8/2022 11:52:30,Sunitha ,21,Female,1-2 hours,No affects,No,No,30 min - 1 hour,Less than 30 min,7 hours ,No,2,2,3,5,Yes
+11/8/2022 11:53:52,BSVM SAI KRISHNA ,20,Male,2-4 hours,Asthenopia ( Eye strain),No,Yes,Less than 30 min,Less than 30 min,7,No,3,3,2,3,No
+11/8/2022 11:55:47,Sri Naga Charan Gampala ,20,Male,4-8 hours,"Asthenopia ( Eye strain), Headache, Back pain / Neck pain",Yes,Yes,1 - 2 hours,30 min - 1 hour,6hours,Yes,3,3,2,2,Yes
+11/8/2022 11:58:24,K.Prince ashish,21,Male,2-4 hours,Back pain / Neck pain,No,Yes,1 - 2 hours,Less than 30 min,7hr,No,3,2,2,4,No
+11/8/2022 11:58:45,Govind kumar,20,Male,more than 8 hours,No affects,No,Yes,Less than 30 min,Less than 30 min,8,No,4,3,3,3,No
+11/8/2022 12:00:40,Leela satish,22,Male,4-8 hours,"Asthenopia ( Eye strain), Headache, Back pain / Neck pain, Sleep Deprivation",Yes,Yes,30 min - 1 hour,30 min - 1 hour,6 to 7,Yes,4,3,3,1,Yes
+11/8/2022 12:02:44,Nakka Sravya Alekhya,23,Female,2-4 hours,"Asthenopia ( Eye strain), Headache, Back pain / Neck pain",Yes,Yes,1 - 2 hours,Less than 30 min,6,No,2,1,3,1,Yes
+11/8/2022 12:03:51,Sheela suresh ,23,Female,2-4 hours,Sleep Deprivation,Yes,Yes,1 - 2 hours,1-2 hours,7,Yes,3,3,3,3,No
+11/8/2022 12:05:09,suryakumar,21,Male,4-8 hours,No affects,No,Yes,1 - 2 hours,Less than 30 min,630,No,3,2,3,4,No
+11/8/2022 12:07:28,Bhagavan ,20,Male,2-4 hours,Asthenopia ( Eye strain),No,Yes,No physical activity,Less than 30 min,8,Yes,3,3,3,3,Yes
+11/8/2022 12:08:04,Mekala Jaya Lakshmi ,20,Female,4-8 hours,No affects,Yes,Yes,more than 2 hours,more than 2 hours,8,No,3,3,4,3,Yes
+11/8/2022 12:08:42,Jigisha,45,Female,1-2 hours,"Asthenopia ( Eye strain), Headache, Obesity due to sedentary lifestyle",No,No,30 min - 1 hour,Less than 30 min,8,No,1,1,1,1,Yes
+11/8/2022 12:09:33,Veena J ,21,Female,2-4 hours,"Asthenopia ( Eye strain), Sleep Deprivation",Yes,Yes,Less than 30 min,30 min - 1 hour,6 hours,Yes,3,1,3,2,Yes
+11/8/2022 12:11:32,Akansha Rao ,17,Female,Less than a hour,"Asthenopia ( Eye strain), Headache, Back pain / Neck pain, Obesity due to sedentary lifestyle",Yes,No,Less than 30 min,30 min - 1 hour,6,No,1,1,2,1,Yes
+11/8/2022 12:13:28,Jabez Samuel Jeyapandian ,21,Male,2-4 hours,Back pain / Neck pain,No,Yes,No physical activity,Less than 30 min,5,No,3,3,4,3,No
+11/8/2022 12:15:48,Sravya,20,Female,4-8 hours,Asthenopia ( Eye strain),No,Yes,1 - 2 hours,30 min - 1 hour,6hours,No,2,2,1,2,No
+11/8/2022 12:17:46,Karan,20,Male,2-4 hours,No affects,No,Yes,1 - 2 hours,Less than 30 min,8,No,2,2,2,1,No
+11/8/2022 12:18:06,Srivatsav damaraju ,20,Male,4-8 hours,Sleep Deprivation,Yes,Yes,30 min - 1 hour,30 min - 1 hour,7,Yes,4,4,4,5,Yes
+11/8/2022 12:19:23,Nandikolla Subrahmanya Samir,21,Male,2-4 hours,No affects,No,Yes,more than 2 hours,30 min - 1 hour,7 hrs,Yes,2,3,2,2,Yes
+11/8/2022 12:23:28,Karthik venu gopal Seeni,24,Male,2-4 hours,Back pain / Neck pain,No,Yes,Less than 30 min,Less than 30 min,5-7 hours ,No,2,1,3,2,Yes
+11/8/2022 12:26:29,Tarra Sekhar ,33,Male,1-2 hours,Asthenopia ( Eye strain),No,Yes,Less than 30 min,Less than 30 min,6,Yes,2,1,1,1,Yes
+11/8/2022 12:37:43,S.sai rama narayana reddy ,21,Male,1-2 hours,No affects,No,Yes,more than 2 hours,more than 2 hours,8,Yes,3,3,4,4,Yes
+11/8/2022 12:39:04,Rakshith,22,Male,4-8 hours,"Headache, Back pain / Neck pain, Sleep Deprivation",Yes,Yes,30 min - 1 hour,Less than 30 min,6,Yes,3,2,2,4,Yes
+11/8/2022 12:41:05,Baby thanos,21,Male,4-8 hours,No affects,No,Yes,30 min - 1 hour,Less than 30 min,8,No,1,1,1,3,Yes
+11/8/2022 12:41:18,Tina Agrawal,22,Female,more than 8 hours,"Asthenopia ( Eye strain), Headache, Back pain / Neck pain, Sleep Deprivation, Obesity due to sedentary lifestyle",Yes,Yes,Less than 30 min,30 min - 1 hour,7hrs,Yes,2,1,3,5,Yes
+11/8/2022 12:42:31,Ujjal Victor,22,Male,2-4 hours,No affects,No,No,30 min - 1 hour,30 min - 1 hour,5,No,3,2,2,4,No
+11/8/2022 12:47:38,Jayanth,22,Male,4-8 hours,Obesity due to sedentary lifestyle,No,Yes,Less than 30 min,30 min - 1 hour,7 to 8,Yes,2,2,2,2,No
+11/8/2022 12:49:57,Veeravalli Hemanth ,21,Male,2-4 hours,"Asthenopia ( Eye strain), Headache",No,Yes,more than 2 hours,Less than 30 min,6,Yes,3,3,4,3,Yes
+11/8/2022 12:50:55,Boopathi,18,Male,4-8 hours,Headache,Yes,No,1 - 2 hours,1-2 hours,5-6,Yes,3,3,3,3,No
+11/8/2022 12:51:39,Christina dorathy ,20,Female,1-2 hours,Headache,Yes,Yes,1 - 2 hours,Less than 30 min,8,No,1,1,3,1,Yes
+11/8/2022 12:59:03,Rovin V Benny,19,Male,2-4 hours,"Headache, Back pain / Neck pain",Yes,Yes,1 - 2 hours,Less than 30 min,6hr,No,3,2,3,3,No
+11/8/2022 12:59:06,Lavina,40,Female,1-2 hours,Sleep Deprivation,Yes,Yes,1 - 2 hours,Less than 30 min,7 hours,No,3,3,2,3,Yes
+11/8/2022 13:02:35,Abid hussain,22,Male,4-8 hours,"Asthenopia ( Eye strain), Headache",Yes,Yes,Less than 30 min,Less than 30 min,7,Yes,4,2,3,2,No
+11/8/2022 13:06:17,Gladson David ,19,Male,4-8 hours,"Headache, Sleep Deprivation",Yes,Yes,1 - 2 hours,30 min - 1 hour,5,Yes,4,4,4,5,Yes
+11/8/2022 13:08:53,Animesh poddar,21,Male,2-4 hours,No affects,No,Yes,30 min - 1 hour,Less than 30 min,8,No,3,2,1,2,No
+11/8/2022 13:09:51,Thanush,21,Male,2-4 hours,"Asthenopia ( Eye strain), Headache, Back pain / Neck pain",Yes,Yes,30 min - 1 hour,Less than 30 min,6,Yes,2,2,2,2,Yes
+11/8/2022 13:11:17,J. Divyasri ,20,Female,4-8 hours,"Asthenopia ( Eye strain), Headache",No,Yes,30 min - 1 hour,Less than 30 min,7,Yes,3,2,2,3,No
+11/8/2022 13:33:39,K manish reddy,23,Male,4-8 hours,Obesity due to sedentary lifestyle,No,Yes,30 min - 1 hour,Less than 30 min,6,Yes,2,1,1,1,No
+11/8/2022 13:45:41,MANISHA Ranjan,38,Female,4-8 hours,Back pain / Neck pain,Yes,Yes,1 - 2 hours,30 min - 1 hour,8 hours ,No,3,3,3,3,No
+11/8/2022 13:48:00,G Vyshnava kumar ,21,Male,4-8 hours,Asthenopia ( Eye strain),Yes,Yes,Less than 30 min,Less than 30 min,6-7,No,2,2,4,2,No
+11/8/2022 13:56:04,Revanth Nallam ,20,Male,4-8 hours,"Headache, Back pain / Neck pain, Sleep Deprivation",Yes,Yes,1 - 2 hours,30 min - 1 hour,6,Yes,4,2,2,5,Yes
+11/8/2022 14:07:04,Sai Deepika,19,Female,2-4 hours,"Headache, Back pain / Neck pain",Yes,Yes,No physical activity,Less than 30 min,8,Yes,3,3,3,3,Yes
+11/8/2022 14:12:06,Sunitha ,21,Female,1-2 hours,No affects,No,Yes,Less than 30 min,Less than 30 min,7,No,1,1,1,1,No
+11/8/2022 14:25:47,Naveen Kumar ,21,Male,1-2 hours,No affects,No,Yes,1 - 2 hours,Less than 30 min,6-7 hours,No,2,2,2,2,No
+11/8/2022 14:28:33,Naveen Kumar ,21,Male,1-2 hours,No affects,No,Yes,1 - 2 hours,Less than 30 min,6-7 hours,No,2,2,2,2,No
+11/8/2022 14:29:00,Kanak ,21,Female,2-4 hours,"Asthenopia ( Eye strain), Headache, Back pain / Neck pain, Sleep Deprivation",Yes,Yes,30 min - 1 hour,Less than 30 min,8,Yes,4,2,3,3,No
+11/8/2022 14:32:01,Nagalakshmi Durga ,20,Female,4-8 hours,"Headache, Back pain / Neck pain",Yes,Yes,1 - 2 hours,30 min - 1 hour,6,No,3,3,4,3,Yes
+11/8/2022 14:34:30,Dileep,20,Male,4-8 hours,Sleep Deprivation,No,No,1 - 2 hours,more than 2 hours,7,No,3,2,2,1,Yes
+11/8/2022 14:36:17,L.Bala murali ,19,Male,more than 8 hours,No affects,No,Yes,30 min - 1 hour,more than 2 hours,6,No,5,5,1,2,Yes
+11/8/2022 14:47:06,Aditi,18,Female,1-2 hours,Headache,No,Yes,30 min - 1 hour,Less than 30 min,8hours,Yes,3,3,4,1,Yes
+11/8/2022 14:51:16,Liniya ,20,Female,2-4 hours,Back pain / Neck pain,No,Yes,more than 2 hours,30 min - 1 hour,6,No,2,2,1,4,No
+11/8/2022 14:54:20,kattipalli prakash,19,Male,more than 8 hours,Asthenopia ( Eye strain),No,Yes,No physical activity,more than 2 hours,8,No,1,2,5,1,Yes
+11/8/2022 15:13:31,Deepshikha ,16,Female,2-4 hours,Asthenopia ( Eye strain),No,Yes,No physical activity,Less than 30 min,6hrs,No,3,2,1,2,Yes
+11/8/2022 16:00:54,Roselin ,19,Female,2-4 hours,Headache,Yes,Yes,Less than 30 min,30 min - 1 hour,7 hours,No,3,3,3,1,Yes
+11/8/2022 16:01:56,Christina ,20,Female,2-4 hours,Sleep Deprivation,Yes,Yes,No physical activity,1-2 hours,9,Yes,3,3,3,2,Yes
+11/8/2022 16:03:28,Adiba,16,Female,more than 8 hours,No affects,No,No,Less than 30 min,Less than 30 min,7 hours,No,3,3,1,1,Yes
+11/8/2022 16:11:15,Vamsi ,21,Male,4-8 hours,Back pain / Neck pain,Yes,No,1 - 2 hours,Less than 30 min,7-8 hours ,No,3,3,3,3,Yes
+11/8/2022 16:22:28,GOUHAR KHALID HARRIS,19,Male,4-8 hours,"Asthenopia ( Eye strain), Headache, Back pain / Neck pain, Sleep Deprivation, Obesity due to sedentary lifestyle",Yes,Yes,30 min - 1 hour,30 min - 1 hour,6,Yes,3,3,2,4,Yes
+11/8/2022 16:24:55,Madonna Watts D'Souza ,21,Female,more than 8 hours,"Asthenopia ( Eye strain), Headache, Sleep Deprivation",Yes,No,1 - 2 hours,30 min - 1 hour,8,No,4,1,3,3,No
+11/8/2022 16:25:10,Aaryan Murgunde ,21,Male,more than 8 hours,Back pain / Neck pain,No,Yes,1 - 2 hours,Less than 30 min,6,No,1,1,1,2,No
+11/8/2022 16:39:23,Jathin Koushik T ,23,Male,4-8 hours,"Asthenopia ( Eye strain), Sleep Deprivation",Yes,Yes,30 min - 1 hour,Less than 30 min,7,Yes,2,3,1,4,Yes
+11/8/2022 16:49:10,G vamsi,21,Male,2-4 hours,"Asthenopia ( Eye strain), Headache, Back pain / Neck pain, Sleep Deprivation, Obesity due to sedentary lifestyle",Yes,Yes,more than 2 hours,30 min - 1 hour,9,Yes,3,4,4,4,No
+11/8/2022 16:50:34,Pragya Dubey,16,Female,2-4 hours,"Asthenopia ( Eye strain), Headache, Sleep Deprivation",No,No,30 min - 1 hour,30 min - 1 hour,3-4 hours,No,3,3,1,3,Yes
+11/8/2022 16:57:23,Julian Deva Sundar ,21,Male,4-8 hours,"Asthenopia ( Eye strain), Back pain / Neck pain",Yes,Yes,Less than 30 min,Less than 30 min,7 hours,Yes,4,3,3,4,Yes
+11/8/2022 17:06:40,Karon Christina ,22,Female,1-2 hours,"Asthenopia ( Eye strain), Headache, Back pain / Neck pain",Yes,Yes,30 min - 1 hour,30 min - 1 hour,8,No,2,1,3,1,Yes
+11/8/2022 17:29:14,MasratImran ,39,Female,1-2 hours,No affects,No,Yes,more than 2 hours,Less than 30 min,7 hrs,No,1,1,1,3,Yes
+11/8/2022 17:45:49,Jyothirmai,17,Female,more than 8 hours,Asthenopia ( Eye strain),No,Yes,30 min - 1 hour,Less than 30 min,6,Yes,3,4,3,3,Yes
+11/8/2022 17:49:45,PADAMATI MONI KRISHNA PRIYA ,17,Female,2-4 hours,Asthenopia ( Eye strain),Yes,Yes,Less than 30 min,Less than 30 min,6-7:30 hrs,Yes,2,1,1,4,No
+11/8/2022 17:50:16,S.venkata poojitha ,17,Female,4-8 hours,"Asthenopia ( Eye strain), Sleep Deprivation",Yes,Yes,No physical activity,Less than 30 min,6 hours ,No,4,1,2,2,Yes
+11/8/2022 17:50:53,Namitha,21,Female,4-8 hours,"Headache, Back pain / Neck pain, Sleep Deprivation",Yes,Yes,Less than 30 min,more than 2 hours,6,Yes,4,3,3,3,Yes
+11/8/2022 17:50:58,K.tanuja,17,Female,4-8 hours,"Headache, Back pain / Neck pain",Yes,Yes,No physical activity,30 min - 1 hour,6,No,2,5,5,5,Yes
+11/8/2022 17:51:05,Mahima Zaria ,19,Female,4-8 hours,"Asthenopia ( Eye strain), Headache, Back pain / Neck pain, Sleep Deprivation",Yes,Yes,1 - 2 hours,Less than 30 min,5-6 hours ,No,3,1,3,3,No
+11/8/2022 17:55:37,Ayesha azeem ,17,Female,2-4 hours,Asthenopia ( Eye strain),Yes,Yes,Less than 30 min,30 min - 1 hour,3,Yes,3,3,1,3,Yes
+11/8/2022 17:57:22,Pravallika,16,Female,4-8 hours,"Headache, No affects",No,Yes,Less than 30 min,Less than 30 min,6,No,2,2,2,1,Yes
+11/8/2022 18:00:31,P.B.Krishna Abhisri ,17,Female,more than 8 hours,"Asthenopia ( Eye strain), Headache",Yes,Yes,1 - 2 hours,Less than 30 min,5-6hrs,No,3,3,2,1,Yes
+11/8/2022 18:03:08,Imandi Prasanna ,16,Female,more than 8 hours,"Asthenopia ( Eye strain), Headache, Back pain / Neck pain, Sleep Deprivation",Yes,Yes,Less than 30 min,Less than 30 min,7,Yes,4,3,4,3,Yes
+11/8/2022 18:04:38,Varsha,17,Female,4-8 hours,Headache,Yes,Yes,30 min - 1 hour,30 min - 1 hour,5-6 hours,Yes,3,4,2,3,Yes
+11/8/2022 18:08:11,M.Nissi Chrisolite ,17,Female,more than 8 hours,"Asthenopia ( Eye strain), Headache, Back pain / Neck pain",Yes,Yes,30 min - 1 hour,Less than 30 min,5,Yes,4,3,3,2,Yes
+11/8/2022 18:08:56,T.Surya Naga Lakshmi ,22,Female,2-4 hours,Headache,No,Yes,30 min - 1 hour,Less than 30 min,7 hours ,Yes,3,3,3,3,Yes
+11/8/2022 18:09:18,A. Shainy,17,Female,4-8 hours,"Asthenopia ( Eye strain), Headache",Yes,Yes,30 min - 1 hour,Less than 30 min,6 and less than 6,Yes,3,3,3,2,Yes
+11/8/2022 18:10:30,N.Likitha sri ,16,Female,4-8 hours,No affects,Yes,Yes,1 - 2 hours,30 min - 1 hour,6hours 30 min,Yes,3,5,2,1,Yes
+11/8/2022 18:13:43,Deepthi,17,Female,4-8 hours,Headache,Yes,Yes,Less than 30 min,Less than 30 min,7,No,1,4,2,3,Yes
+11/8/2022 18:14:27,T.keerthi,17,Female,4-8 hours,"Asthenopia ( Eye strain), Headache",No,Yes,Less than 30 min,Less than 30 min,6hrs,Yes,2,4,2,3,No
+11/8/2022 18:15:10,Praison David ,22,Male,2-4 hours,Sleep Deprivation,No,Yes,1 - 2 hours,Less than 30 min,5 - 8,Yes,2,3,3,4,No
+11/8/2022 18:18:46,Divya Sri Dasari,16,Female,more than 8 hours,No affects,No,Yes,more than 2 hours,Less than 30 min,5 hrs,Yes,4,3,3,2,No
+11/8/2022 18:22:08,M.komala,17,Female,2-4 hours,No affects,No,Yes,Less than 30 min,Less than 30 min,7:00,Yes,1,2,3,1,Yes
+11/8/2022 18:24:50,Sravya,24,Female,2-4 hours,No affects,No,Yes,No physical activity,Less than 30 min,8,No,5,1,1,1,No
+11/8/2022 18:31:13,Dev,25,Male,1-2 hours,No affects,No,Yes,Less than 30 min,Less than 30 min,7,No,2,3,2,3,Yes
+11/8/2022 18:43:51,Ganta Dheeraj ,21,Male,2-4 hours,Asthenopia ( Eye strain),Yes,Yes,No physical activity,30 min - 1 hour,6,Yes,4,3,3,3,No
+11/8/2022 18:45:00,Duvvuru Pragathi Reddy ,21,Female,1-2 hours,Sleep Deprivation,Yes,Yes,No physical activity,Less than 30 min,7,Yes,3,3,3,3,No
+11/8/2022 18:46:00,Dharmi Krishna ,22,Male,4-8 hours,"Asthenopia ( Eye strain), Headache, Sleep Deprivation",Yes,Yes,No physical activity,30 min - 1 hour,6,Yes,3,3,3,3,Yes
+11/8/2022 18:49:57,Vedika Sahu ,16,Female,2-4 hours,"Asthenopia ( Eye strain), Headache, Back pain / Neck pain, Sleep Deprivation",Yes,Yes,Less than 30 min,30 min - 1 hour,7-8,Yes,2,1,3,3,Yes
+11/8/2022 19:05:58,Duggaraju Santhoshini Abhigna ,21,Female,2-4 hours,Asthenopia ( Eye strain),No,Yes,Less than 30 min,30 min - 1 hour,7,No,2,2,3,2,No
+11/8/2022 19:09:39,Vishakha kasar ,17,Female,Less than a hour,No affects,No,No,30 min - 1 hour,Less than 30 min,7,No,1,1,1,1,No
+11/8/2022 19:24:10,SASI SALADI,20,Female,4-8 hours,"Headache, Sleep Deprivation",Yes,Yes,30 min - 1 hour,Less than 30 min,6-7,Yes,5,1,5,5,Yes
+11/8/2022 19:38:55,Mukesh muduku,20,Male,1-2 hours,Back pain / Neck pain,No,Yes,30 min - 1 hour,Less than 30 min,7,No,1,1,1,1,No
+11/8/2022 19:45:59,Dian John,21,Female,4-8 hours,Headache,Yes,Yes,Less than 30 min,Less than 30 min,7,Yes,3,3,3,3,Yes
+11/8/2022 19:53:32,Anugrah Hembram ,20,Male,more than 8 hours,"Asthenopia ( Eye strain), Headache, Sleep Deprivation, Obesity due to sedentary lifestyle",Yes,Yes,Less than 30 min,more than 2 hours,4,No,3,3,3,3,Yes
+11/8/2022 19:55:54,Srivani,19,Female,4-8 hours,Headache,Yes,Yes,No physical activity,30 min - 1 hour,9,No,3,2,1,3,Yes
+11/8/2022 19:57:11,Adam Samarth Harrison,22,Male,2-4 hours,No affects,No,Yes,more than 2 hours,Less than 30 min,7,No,2,1,1,2,No
+11/8/2022 19:58:57,Prasamsa,21,Female,more than 8 hours,Sleep Deprivation,Yes,Yes,1 - 2 hours,Less than 30 min,6,No,5,3,1,3,No
+11/8/2022 20:00:48,Paritosh ,22,Male,4-8 hours,"Asthenopia ( Eye strain), Headache, Back pain / Neck pain, Sleep Deprivation, Obesity due to sedentary lifestyle",Yes,Yes,Less than 30 min,30 min - 1 hour,7,Yes,3,3,4,3,Yes
+11/8/2022 20:18:04,Monika Krishna,20,Female,4-8 hours,No affects,No,Yes,30 min - 1 hour,30 min - 1 hour,8,No,3,2,1,2,No
+11/8/2022 20:24:07,Aaron Lakra,20,Male,more than 8 hours,"Headache, Back pain / Neck pain",Yes,Yes,30 min - 1 hour,30 min - 1 hour,7,Yes,4,3,3,3,Yes
+11/8/2022 20:43:15,Subash ,21,Male,2-4 hours,Asthenopia ( Eye strain),Yes,No,more than 2 hours,more than 2 hours,6 to 8,Yes,3,3,2,1,Yes
+11/8/2022 20:49:37,mokshitha,17,Female,Less than a hour,No affects,No,No,No physical activity,Less than 30 min,6,No,1,1,1,1,No
+11/8/2022 20:55:42,KONDAPALLI SEETHAISHWARYA ,17,Female,2-4 hours,No affects,No,No,Less than 30 min,Less than 30 min,6,No,2,1,1,1,Yes
+11/8/2022 21:00:42,Ashritha Akula,17,Female,Less than a hour,Back pain / Neck pain,No,No,30 min - 1 hour,Less than 30 min,5 hours,Yes,2,5,3,4,Yes
+11/8/2022 21:01:39,N.kiranmayi ,17,Female,4-8 hours,Headache,Yes,Yes,No physical activity,1-2 hours,6,No,3,2,3,3,Yes
+11/8/2022 21:04:19,Komal,19,Male,more than 8 hours,"Asthenopia ( Eye strain), Headache, Back pain / Neck pain, Sleep Deprivation",Yes,Yes,30 min - 1 hour,more than 2 hours,7,Yes,5,1,5,1,No
+11/8/2022 21:07:29,Sohail khan,20,Male,2-4 hours,Back pain / Neck pain,No,Yes,Less than 30 min,Less than 30 min,9 to 5,No,3,2,1,1,Yes
+11/8/2022 21:10:09,Pradeep sai,20,Male,2-4 hours,No affects,No,Yes,1 - 2 hours,Less than 30 min,7,No,3,2,3,3,Yes
+11/8/2022 21:10:45,Althaf,19,Male,more than 8 hours,"Asthenopia ( Eye strain), Headache, Back pain / Neck pain",Yes,Yes,more than 2 hours,Less than 30 min,7-8,Yes,3,5,4,3,No
+11/8/2022 21:11:14,Jonnala pranay reddy,20,Male,more than 8 hours,"Asthenopia ( Eye strain), Headache, Sleep Deprivation",Yes,Yes,No physical activity,30 min - 1 hour,6-7,No,3,3,4,3,Yes
+11/8/2022 21:17:34,Naga kalyan,20,Male,2-4 hours,No affects,Yes,Yes,1 - 2 hours,Less than 30 min,6 hours,No,2,3,1,3,No
+11/8/2022 21:30:35,Hrishitha alice,17,Female,4-8 hours,"Asthenopia ( Eye strain), Headache, Back pain / Neck pain, Sleep Deprivation",No,Yes,Less than 30 min,more than 2 hours,6,Yes,3,2,3,4,Yes
+11/8/2022 21:41:28,Juhita,21,Female,more than 8 hours,No affects,No,Yes,Less than 30 min,Less than 30 min,8,Yes,3,1,1,1,No
+11/8/2022 21:43:14,Vamsi,19,Male,more than 8 hours,Headache,No,Yes,30 min - 1 hour,30 min - 1 hour,6-8,Yes,4,3,3,4,Yes
+11/8/2022 22:18:20,zeenat,16,Female,4-8 hours,Back pain / Neck pain,Yes,Yes,30 min - 1 hour,Less than 30 min,5-10,Yes,4,2,1,3,Yes
+11/8/2022 22:35:32,Nirmal ,18,Male,2-4 hours,Back pain / Neck pain,No,No,No physical activity,Less than 30 min,10,No,3,5,3,1,Yes
+11/8/2022 22:39:54,Ram sai,20,Male,2-4 hours,Back pain / Neck pain,Yes,Yes,No physical activity,30 min - 1 hour,7,Yes,3,1,3,2,No
+11/8/2022 22:41:59,Yooo,19,Male,2-4 hours,Back pain / Neck pain,Yes,Yes,Less than 30 min,30 min - 1 hour,4,Yes,2,1,1,4,Yes
+11/8/2022 22:48:02,Ancy Vetha Shalomy ,21,Female,4-8 hours,"Headache, Back pain / Neck pain, Sleep Deprivation, Obesity due to sedentary lifestyle",No,Yes,1 - 2 hours,Less than 30 min,7,No,3,1,3,2,Yes
+11/9/2022 7:04:29,Leti.gowtham,21,Male,4-8 hours,No affects,No,Yes,more than 2 hours,Less than 30 min,8 hours,No,3,3,2,1,Yes
+11/9/2022 7:31:05,Nutana ,17,Female,2-4 hours,No affects,Yes,Yes,Less than 30 min,Less than 30 min,7 to 8hrs,Yes,2,5,1,3,Yes
+11/9/2022 10:23:11,Rahul,21,Male,more than 8 hours,"Headache, Back pain / Neck pain, Sleep Deprivation",No,Yes,more than 2 hours,30 min - 1 hour,6,Yes,4,3,3,3,Yes
+11/9/2022 10:27:33,L.Christina Sherin,22,Female,4-8 hours,"Asthenopia ( Eye strain), Headache, Back pain / Neck pain, Sleep Deprivation",Yes,Yes,1 - 2 hours,1-2 hours,5hrs,Yes,5,1,5,5,Yes
+11/9/2022 11:49:47,Mamatha,16,Female,4-8 hours,No affects,Yes,Yes,Less than 30 min,30 min - 1 hour,5-6 hrs,Yes,3,3,1,3,Yes
+11/9/2022 15:02:49,Chganesh ,21,Male,1-2 hours,Headache,No,Yes,more than 2 hours,30 min - 1 hour,7,Yes,2,3,1,1,No
+11/9/2022 15:06:39,Sriman bhaghiradh ,21,Male,2-4 hours,Asthenopia ( Eye strain),No,Yes,30 min - 1 hour,Less than 30 min,7-8 hrs,No,3,1,2,2,Yes
+11/9/2022 15:12:24,IRROTHU LALITHA LAXMI,19,Female,2-4 hours,"Asthenopia ( Eye strain), Headache, Back pain / Neck pain, Sleep Deprivation",Yes,Yes,Less than 30 min,Less than 30 min,7hours,Yes,2,1,3,2,Yes
+11/9/2022 15:17:18,Pavan kumar,18,Male,more than 8 hours,Back pain / Neck pain,No,Yes,Less than 30 min,30 min - 1 hour,5 hrs,Yes,3,1,3,1,No
+11/9/2022 15:32:11,Hema Anusuri,20,Female,4-8 hours,"Asthenopia ( Eye strain), Headache, Back pain / Neck pain, Sleep Deprivation, Obesity due to sedentary lifestyle",Yes,Yes,No physical activity,more than 2 hours,4,Yes,5,3,5,3,Yes
+11/9/2022 15:54:08,G.SriRam,20,Male,2-4 hours,"Asthenopia ( Eye strain), Headache",Yes,Yes,Less than 30 min,30 min - 1 hour,9,No,3,3,3,2,No
+11/9/2022 15:58:48,Kalukuracha Vinay Prasad ,20,Male,2-4 hours,Headache,Yes,Yes,30 min - 1 hour,Less than 30 min,5,Yes,3,1,2,4,Yes
+11/9/2022 16:14:51,Saksham Masih ,21,Male,2-4 hours,No affects,No,No,more than 2 hours,Less than 30 min,6 hrs ,No,1,1,1,1,No
+11/9/2022 17:49:47,Srivallibandaru ,16,Female,2-4 hours,"Asthenopia ( Eye strain), Headache, Back pain / Neck pain",Yes,No,30 min - 1 hour,30 min - 1 hour,7 hours,No,3,3,2,2,No
+11/9/2022 19:02:31,Chandu,20,Male,Less than a hour,No affects,No,No,30 min - 1 hour,30 min - 1 hour,7,No,3,2,4,2,Yes
+11/9/2022 19:43:22,Josh ,21,Male,2-4 hours,"Back pain / Neck pain, Sleep Deprivation",No,Yes,Less than 30 min,30 min - 1 hour,8hr,No,3,2,3,2,Yes
+11/9/2022 20:48:32,Swapna,20,Female,2-4 hours,Asthenopia ( Eye strain),No,Yes,Less than 30 min,Less than 30 min,7 hrs,No,1,1,2,1,No
+11/9/2022 21:34:24,Shandilya,23,Female,more than 8 hours,Headache,No,Yes,Less than 30 min,Less than 30 min,8,No,3,2,2,2,No
+11/9/2022 22:01:47,Jeevan,22,Male,1-2 hours,No affects,No,Yes,30 min - 1 hour,Less than 30 min,8 hours,No,2,1,2,2,Yes
+11/10/2022 9:22:20,Raja sekhar p,52,Male,2-4 hours,"Asthenopia ( Eye strain), Back pain / Neck pain",Yes,Yes,30 min - 1 hour,Less than 30 min,7,No,1,1,1,1,No
+11/10/2022 10:21:25,Hemanagaanjali,20,Female,1-2 hours,"Asthenopia ( Eye strain), Headache, Back pain / Neck pain, Sleep Deprivation",No,No,30 min - 1 hour,30 min - 1 hour,7,No,3,2,3,3,No
+11/10/2022 10:21:41,Harithasai ,19,Female,1-2 hours,No affects,Yes,No,Less than 30 min,30 min - 1 hour,7 hours,No,1,2,2,1,Yes
+11/10/2022 10:23:28,Nuthaki Anitha,19,Female,2-4 hours,No affects,No,No,1 - 2 hours,more than 2 hours,8,Yes,3,1,3,2,Yes
+11/10/2022 10:23:49,jaladi asha jyothi,20,Female,2-4 hours,Headache,Yes,Yes,30 min - 1 hour,30 min - 1 hour,6,Yes,3,3,3,4,Yes
+11/10/2022 10:23:51,P.Nandini,20,Female,2-4 hours,Sleep Deprivation,Yes,No,Less than 30 min,more than 2 hours,8,No,3,2,3,3,Yes
+11/10/2022 10:24:23,Prathuri alekhya,19,Female,2-4 hours,Sleep Deprivation,Yes,No,more than 2 hours,1-2 hours,8,No,3,2,3,4,Yes
+11/10/2022 10:25:17,Venkatalakshmi damarla,20,Female,2-4 hours,Headache,Yes,Yes,Less than 30 min,30 min - 1 hour,8,No,3,4,2,3,Yes
+11/10/2022 10:25:18,Ramyasree Goli,19,Female,2-4 hours,Headache,Yes,Yes,Less than 30 min,Less than 30 min,9,No,3,4,2,3,Yes
+11/10/2022 10:25:52,Tullimillijayasri,20,Female,2-4 hours,Back pain / Neck pain,No,No,30 min - 1 hour,more than 2 hours,5 hours,Yes,5,5,3,4,Yes
+11/10/2022 10:26:34,Puli Lalitha,19,Female,1-2 hours,Asthenopia ( Eye strain),No,Yes,30 min - 1 hour,30 min - 1 hour,7,No,3,3,2,2,Yes
+11/10/2022 10:26:35,Dontamsetti komaleswari,19,Female,1-2 hours,Asthenopia ( Eye strain),No,Yes,30 min - 1 hour,30 min - 1 hour,8,No,3,3,2,2,Yes
+11/10/2022 10:26:43,Syed Naseema,20,Female,1-2 hours,Headache,No,No,Less than 30 min,30 min - 1 hour,8 hours ,No,3,2,4,4,Yes
+11/10/2022 10:26:44,E Vijaya bhavani,20,Female,1-2 hours,Asthenopia ( Eye strain),No,Yes,30 min - 1 hour,30 min - 1 hour,7,No,2,3,2,2,Yes
+11/10/2022 10:26:45,Pulimi Varshini ,19,Female,2-4 hours,No affects,No,Yes,Less than 30 min,30 min - 1 hour,8,No,4,4,3,4,Yes
+11/10/2022 10:27:04,G. Swathi priya,20,Female,1-2 hours,Asthenopia ( Eye strain),No,No,Less than 30 min,1-2 hours,10,Yes,2,3,4,2,Yes
+11/10/2022 10:27:13,Yamini,20,Female,4-8 hours,Asthenopia ( Eye strain),No,No,1 - 2 hours,Less than 30 min,10,No,1,1,1,2,No
+11/10/2022 10:27:27,Unnam.keerthi,21,Female,1-2 hours,Headache,Yes,Yes,1 - 2 hours,1-2 hours,6,Yes,3,3,3,3,Yes
+11/10/2022 10:27:42,Jaladi asha jyothi,20,Female,2-4 hours,Headache,Yes,Yes,1 - 2 hours,30 min - 1 hour,6,Yes,2,3,3,4,Yes
+11/10/2022 10:27:43,Ch. Durga bhavani,20,Female,1-2 hours,Asthenopia ( Eye strain),No,No,30 min - 1 hour,30 min - 1 hour,6,Yes,3,3,2,3,Yes
+11/10/2022 10:27:56,Muggu Chandra Sekhar ,21,Male,2-4 hours,Back pain / Neck pain,No,Yes,more than 2 hours,30 min - 1 hour,7,No,2,2,3,2,No
+11/10/2022 10:29:18,Asha Jyothi jaladi,20,Female,2-4 hours,Headache,Yes,Yes,1 - 2 hours,1-2 hours,6,Yes,3,2,3,4,Yes
+11/10/2022 10:29:51,Chimata Ramanjaneyulu,21,Male,2-4 hours,No affects,No,No,1 - 2 hours,more than 2 hours,8,No,3,3,4,4,Yes
+11/10/2022 10:34:28,Pattan sameer khan ,20,Male,2-4 hours,Headache,No,No,30 min - 1 hour,30 min - 1 hour,7,Yes,3,3,2,3,Yes
+11/10/2022 10:37:34,Sanam.jyothi,20,Female,2-4 hours,"Asthenopia ( Eye strain), Headache, Back pain / Neck pain",Yes,No,Less than 30 min,1-2 hours,8,Yes,3,3,5,2,Yes
+11/10/2022 10:37:54,Tippavarjula ganesh ,20,Male,1-2 hours,No affects,No,Yes,30 min - 1 hour,30 min - 1 hour,8,No,2,2,2,3,Yes
+11/10/2022 10:38:38,Rudru srinivas,21,Male,2-4 hours,Headache,Yes,Yes,30 min - 1 hour,1-2 hours,8 hours,Yes,3,4,4,3,Yes
+11/10/2022 10:39:28,A.manjula,21,Female,4-8 hours,"Asthenopia ( Eye strain), Headache",No,No,1 - 2 hours,30 min - 1 hour,8 hours ,No,3,3,2,2,No
+11/10/2022 10:39:29,Sanam.jyothi,20,Female,more than 8 hours,"Asthenopia ( Eye strain), Headache, Back pain / Neck pain",Yes,No,30 min - 1 hour,Less than 30 min,8,Yes,2,5,4,5,Yes
+11/10/2022 10:40:02,Tippavarjula ganesh ,20,Male,1-2 hours,No affects,No,No,30 min - 1 hour,30 min - 1 hour,8,No,2,2,2,3,Yes
+11/10/2022 10:42:23,Sanam.jyothi,20,Female,more than 8 hours,"Asthenopia ( Eye strain), Headache, Back pain / Neck pain",Yes,No,No physical activity,30 min - 1 hour,8.period,Yes,3,5,3,5,No
+11/10/2022 10:43:45,THINNALURI NIKHIL,20,Male,2-4 hours,No affects,No,No,more than 2 hours,Less than 30 min,7,No,1,5,1,1,Yes
+11/10/2022 10:43:52,Kancharla sumanth,20,Male,2-4 hours,Asthenopia ( Eye strain),No,No,1 - 2 hours,Less than 30 min,8,Yes,2,1,5,1,Yes
+11/10/2022 10:46:16,Kolli Tulasi Bala ,20,Female,4-8 hours,No affects,No,No,30 min - 1 hour,Less than 30 min,7,No,3,2,3,2,Yes
+11/10/2022 10:49:31,Rudru.Kalyani,20,Female,more than 8 hours,Asthenopia ( Eye strain),No,Yes,Less than 30 min,Less than 30 min,10:00,Yes,5,5,4,5,Yes
+11/10/2022 10:49:40,Sanam Akhil babu,21,Male,more than 8 hours,No affects,No,Yes,No physical activity,more than 2 hours,6hrs or 10hrs+,Yes,4,4,3,4,Yes
+11/10/2022 11:02:25,Lingineni.Bhavya vani,21,Female,2-4 hours,No affects,No,No,more than 2 hours,Less than 30 min,8,No,3,3,3,3,Yes
+11/10/2022 11:08:47,Chavali sai swarupa ,20,Female,4-8 hours,Headache,Yes,Yes,1 - 2 hours,30 min - 1 hour,7,Yes,5,3,2,2,Yes
+11/10/2022 11:09:07,Ravi Danaboina ,20,Male,2-4 hours,Sleep Deprivation,Yes,Yes,30 min - 1 hour,1-2 hours,7Hours,No,2,4,3,2,Yes
+11/10/2022 11:12:49,Sanam.jyothi,20,Female,2-4 hours,"Asthenopia ( Eye strain), Headache, Back pain / Neck pain",Yes,No,Less than 30 min,30 min - 1 hour,8,Yes,2,1,5,3,No
+11/10/2022 11:14:45,Shaik Nagul Basha,20,Male,1-2 hours,No affects,No,No,30 min - 1 hour,1-2 hours,7_8 hours,No,2,2,1,3,Yes
+11/10/2022 11:14:54,CHITTIBOMMA KRISHNA VAMSI,20,Male,1-2 hours,Headache,Yes,No,more than 2 hours,30 min - 1 hour,8,Yes,2,2,4,3,No
+11/10/2022 11:14:54,ANKALA ANIL,20,Male,1-2 hours,Headache,Yes,No,more than 2 hours,30 min - 1 hour,8,Yes,2,2,4,3,No
+11/10/2022 11:28:47,Pallapu Nagalakshmi ,19,Female,Less than a hour,No affects,No,No,Less than 30 min,Less than 30 min,6hours,No,1,1,1,1,Yes
+11/10/2022 11:33:57,Shaik Shammem ,21,Female,more than 8 hours,"Asthenopia ( Eye strain), Headache",Yes,No,more than 2 hours,30 min - 1 hour,8 hours,No,3,3,3,3,Yes
+11/10/2022 11:40:25,Sanam.jyothi,20,Female,2-4 hours,"Asthenopia ( Eye strain), Headache, Back pain / Neck pain",Yes,No,Less than 30 min,Less than 30 min,8,Yes,2,1,5,3,No
+11/10/2022 11:45:45,K vivekananda kumar,19,Male,2-4 hours,Headache,Yes,Yes,1 - 2 hours,Less than 30 min,10,No,3,1,3,2,Yes
+11/10/2022 11:46:14,Sanam.jyothi,20,Female,4-8 hours,"Headache, Back pain / Neck pain, Obesity due to sedentary lifestyle",Yes,No,30 min - 1 hour,Less than 30 min,8,Yes,1,3,5,2,Yes
+11/10/2022 11:49:04,Shaik Abdulla,20,Male,1-2 hours,No affects,No,No,30 min - 1 hour,30 min - 1 hour,8,No,2,2,2,3,Yes
+11/10/2022 11:50:57,Vijay,20,Male,2-4 hours,Headache,Yes,Yes,1 - 2 hours,30 min - 1 hour,10,No,2,3,2,3,Yes
+11/10/2022 11:56:22,Panthagani Sampath Kumar,19,Male,2-4 hours,Sleep Deprivation,Yes,Yes,Less than 30 min,Less than 30 min,8,Yes,3,1,3,2,No
+11/10/2022 12:32:49,Yenumula.Dharani,20,Female,2-4 hours,Back pain / Neck pain,Yes,No,more than 2 hours,Less than 30 min,8,No,3,3,4,3,Yes
+11/10/2022 12:41:03,Pooja. Vuddanti,20,Female,4-8 hours,Headache,Yes,No,Less than 30 min,30 min - 1 hour,8 to 9 hours,Yes,2,2,4,3,Yes
+11/10/2022 12:58:03,Sanam.jyothi,20,Female,1-2 hours,"Sleep Deprivation, Obesity due to sedentary lifestyle, No affects",Yes,No,Less than 30 min,1-2 hours,8,Yes,1,5,3,1,Yes
+11/10/2022 13:27:33,Vishnu priya kandru,19,Female,2-4 hours,No affects,No,No,30 min - 1 hour,Less than 30 min,7 hours,Yes,2,2,1,1,No
+11/10/2022 13:34:40,Velipuriramaswamy ,22,Male,1-2 hours,No affects,No,Yes,30 min - 1 hour,Less than 30 min,7,Yes,1,1,1,1,Yes
+11/10/2022 13:52:06,K.Anuradha,19,Female,4-8 hours,Headache,Yes,No,more than 2 hours,Less than 30 min,8,No,3,3,2,3,No
+11/10/2022 14:07:32,K. Sai varshini,20,Female,2-4 hours,No affects,No,Yes,No physical activity,30 min - 1 hour,8,No,1,1,1,1,Yes
+11/10/2022 14:14:29,Konka sharonpushpa,20,Female,Less than a hour,No affects,No,No,No physical activity,30 min - 1 hour,6hrs,No,1,1,1,3,No
+11/10/2022 14:32:51,Manikyala Abhinash ,22,Male,2-4 hours,Headache,No,Yes,30 min - 1 hour,30 min - 1 hour,7,Yes,3,4,3,3,No
+11/10/2022 14:54:08,shaik salma sulthana,20,Female,4-8 hours,Headache,Yes,No,Less than 30 min,Less than 30 min,8,Yes,2,2,1,3,Yes
+11/10/2022 14:56:17,Unnam.keerthi,21,Female,1-2 hours,Headache,Yes,Yes,1 - 2 hours,30 min - 1 hour,6,Yes,3,3,3,3,Yes
+11/10/2022 14:56:21,Sanam.jyothi,20,Female,2-4 hours,Sleep Deprivation,Yes,No,30 min - 1 hour,1-2 hours,8,Yes,2,2,1,4,Yes
+11/10/2022 15:17:59,Vuyyala jayasri,20,Female,2-4 hours,Back pain / Neck pain,No,Yes,Less than 30 min,Less than 30 min,7,Yes,3,3,4,2,Yes
+11/10/2022 15:38:23,Akasam. Yamuna ,19,Female,1-2 hours,Headache,Yes,No,30 min - 1 hour,Less than 30 min,9,Yes,2,1,1,1,No
+11/10/2022 16:25:21,vasa venkat rao,20,Male,4-8 hours,No affects,No,Yes,No physical activity,30 min - 1 hour,8,Yes,4,3,2,4,Yes
+11/10/2022 16:28:10,Kotari jayasri,20,Female,4-8 hours,Asthenopia ( Eye strain),No,No,30 min - 1 hour,Less than 30 min,08,No,1,1,1,1,Yes
+11/10/2022 16:35:51,MD.Tanveer ur Rehman ,20,Male,2-4 hours,"Asthenopia ( Eye strain), Headache",No,Yes,more than 2 hours,Less than 30 min,6,No,5,3,3,3,Yes
+11/10/2022 16:39:26,Kotha suryaprabha ,20,Female,4-8 hours,No affects,No,Yes,1 - 2 hours,more than 2 hours,8 hours,No,3,3,3,3,Yes
+11/10/2022 16:43:36,SANGARAPU LAKSHMI VENKATA VARA PRASAD ,18,Male,Less than a hour,No affects,No,No,more than 2 hours,more than 2 hours,8hours,No,3,2,1,2,Yes
+11/10/2022 16:43:38,P sunny ,18,Male,1-2 hours,Back pain / Neck pain,No,No,No physical activity,Less than 30 min,08,No,2,2,2,1,Yes
+11/10/2022 16:51:13,Yenumula harika,17,Female,1-2 hours,No affects,No,No,30 min - 1 hour,Less than 30 min,9hours,No,1,1,1,1,Yes
+11/10/2022 16:55:00,T. Pallavi ,19,Female,2-4 hours,Headache,Yes,Yes,Less than 30 min,30 min - 1 hour,10 hours ,No,2,5,1,4,Yes
+11/10/2022 16:55:36,VALAPARLA AKSHITHA ,19,Female,1-2 hours,Back pain / Neck pain,No,Yes,30 min - 1 hour,Less than 30 min,9 hours,No,2,2,3,3,Yes
+11/10/2022 16:56:29,Tiruveedula. Pallavi ,19,Female,1-2 hours,Headache,Yes,Yes,No physical activity,30 min - 1 hour,5,Yes,2,5,1,3,Yes
+11/10/2022 17:00:57,G Sanjay Mithra Reddy ,19,Male,1-2 hours,Asthenopia ( Eye strain),No,Yes,No physical activity,30 min - 1 hour,7,No,1,1,1,1,No
+11/10/2022 17:02:38,MOGILINEDI SRIKALA,19,Female,2-4 hours,No affects,No,Yes,No physical activity,Less than 30 min,8 hours,Yes,2,2,1,1,Yes
+11/10/2022 17:02:54,SWAPNA MEKALA,19,Female,1-2 hours,"Asthenopia ( Eye strain), Headache",Yes,No,1 - 2 hours,Less than 30 min,7,No,2,3,2,1,Yes
+11/10/2022 17:04:18,MOGILINEDI SRIKALA,19,Female,2-4 hours,No affects,No,Yes,No physical activity,Less than 30 min,8 hours,Yes,2,1,1,1,Yes
+11/10/2022 17:04:36,Shafiya,18,Female,1-2 hours,Asthenopia ( Eye strain),Yes,No,No physical activity,30 min - 1 hour,7 hours,Yes,2,2,3,2,Yes
+11/10/2022 17:06:13,Rishitha .yarradoddi,18,Female,1-2 hours,No affects,No,Yes,No physical activity,30 min - 1 hour,6,No,2,3,3,2,No
+11/10/2022 17:09:25,P. Syamalatha ,18,Female,Less than a hour,Asthenopia ( Eye strain),No,Yes,Less than 30 min,30 min - 1 hour,7,No,1,3,3,3,Yes
+11/10/2022 17:09:54,K. Poorna Bindu,19,Female,2-4 hours,Headache,No,No,Less than 30 min,30 min - 1 hour,7-8hrs,No,2,2,2,1,No
+11/10/2022 17:15:37,Chittibomma krishna vamsi,20,Male,1-2 hours,Headache,Yes,Yes,1 - 2 hours,30 min - 1 hour,8,No,4,3,5,3,Yes
+11/10/2022 17:19:34,Bandi Madhuri ,19,Female,2-4 hours,No affects,No,Yes,1 - 2 hours,Less than 30 min,8,No,2,2,3,3,Yes
+11/10/2022 17:19:48,A. Soniya,19,Female,4-8 hours,Back pain / Neck pain,No,Yes,1 - 2 hours,more than 2 hours,8 hours,Yes,3,3,3,3,No
+11/10/2022 17:21:48,M Nandini,17,Female,1-2 hours,Asthenopia ( Eye strain),No,Yes,more than 2 hours,1-2 hours,6to7hours,No,1,1,1,1,Yes
+11/10/2022 17:23:43,G.sarojini,18,Female,1-2 hours,Headache,No,Yes,30 min - 1 hour,30 min - 1 hour,6,No,2,3,2,2,No
+11/10/2022 17:26:15,Abburi harshitha ,18,Female,2-4 hours,No affects,No,Yes,30 min - 1 hour,Less than 30 min,7 hours ,No,3,1,2,2,Yes
+11/10/2022 17:26:37,GOPI KRISHNA,19,Male,2-4 hours,No affects,No,Yes,Less than 30 min,Less than 30 min,7,Yes,1,1,1,1,Yes
+11/10/2022 17:26:39,Thati Lakshmi sirisha,18,Female,1-2 hours,No affects,No,No,No physical activity,1-2 hours,8 hours ,No,2,2,2,2,No
+11/10/2022 17:27:01,Mudrabina ganesh,18,Male,1-2 hours,No affects,No,Yes,1 - 2 hours,more than 2 hours,8,No,1,1,1,1,Yes
+11/10/2022 17:27:30,Bezawada Samba Siva mahesh ,19,Male,4-8 hours,"Asthenopia ( Eye strain), Headache, Back pain / Neck pain, Sleep Deprivation",Yes,Yes,No physical activity,30 min - 1 hour,6,Yes,3,3,3,2,Yes
+11/10/2022 17:27:37,Danaboina Gopala Krishna,19,Male,2-4 hours,Headache,Yes,No,1 - 2 hours,30 min - 1 hour,8hours,No,2,2,2,4,Yes
+11/10/2022 17:28:08,Abburi harshitha ,18,Female,2-4 hours,No affects,No,Yes,30 min - 1 hour,30 min - 1 hour,7hours,No,2,2,2,2,Yes
+11/10/2022 17:28:29,J.Bhagya Lakshmi ,19,Female,2-4 hours,Asthenopia ( Eye strain),No,Yes,No physical activity,Less than 30 min,10 hours,No,2,1,1,1,No
+11/10/2022 17:29:14,M Nandini ,17,Female,1-2 hours,Asthenopia ( Eye strain),No,Yes,1 - 2 hours,30 min - 1 hour,6-7hours,Yes,1,1,1,1,Yes
+11/10/2022 17:31:22,Vinay ,18,Male,2-4 hours,Back pain / Neck pain,No,Yes,30 min - 1 hour,more than 2 hours,9 Hour's ,No,2,2,2,1,Yes
+11/10/2022 17:32:11,Thati lakshmi sirisha,18,Female,1-2 hours,No affects,No,No,Less than 30 min,30 min - 1 hour,8hours ,No,2,2,2,2,No
+11/10/2022 17:33:01,R.Jayaveer,19,Male,2-4 hours,No affects,No,Yes,No physical activity,more than 2 hours,7,No,2,2,1,2,Yes
+11/10/2022 17:33:49,S.Thochitha ,18,Female,1-2 hours,No affects,No,Yes,No physical activity,Less than 30 min,8,Yes,2,2,2,1,No
+11/10/2022 17:33:58,B. P. L. Kumar,18,Male,1-2 hours,No affects,No,Yes,30 min - 1 hour,30 min - 1 hour,08,No,2,2,2,2,No
+11/10/2022 17:34:19,M.Noshitha Rani,19,Female,1-2 hours,No affects,No,Yes,30 min - 1 hour,Less than 30 min,8 (hrs),No,3,4,1,1,No
+11/10/2022 17:34:39,Pravallika ,18,Female,Less than a hour,No affects,No,Yes,Less than 30 min,Less than 30 min,8,No,1,1,1,2,Yes
+11/10/2022 17:34:42,Ramineni ramu,19,Male,2-4 hours,"Asthenopia ( Eye strain), Headache, Back pain / Neck pain",Yes,No,1 - 2 hours,Less than 30 min,7,No,3,3,3,3,Yes
+11/10/2022 17:37:21,M.Noshitha Rani,19,Female,1-2 hours,No affects,No,Yes,30 min - 1 hour,Less than 30 min,8 (hrs),No,2,3,1,1,No
+11/10/2022 17:44:15,D.yuva nagendra ,19,Male,1-2 hours,"Headache, Back pain / Neck pain",No,Yes,No physical activity,1-2 hours,8,No,2,1,2,1,Yes
+11/10/2022 17:44:21,Muppirisetty venkata lakshmi,18,Female,2-4 hours,Headache,Yes,Yes,Less than 30 min,Less than 30 min,8 hours,No,2,3,3,2,Yes
+11/10/2022 17:46:41,Kandulapuram sulochana,18,Female,4-8 hours,Asthenopia ( Eye strain),No,No,No physical activity,Less than 30 min,7,No,2,2,1,1,Yes
+11/10/2022 17:48:40,Thati lakshmi sirisha,18,Female,1-2 hours,Asthenopia ( Eye strain),No,No,30 min - 1 hour,30 min - 1 hour,11hours ,No,1,2,2,2,Yes
+11/10/2022 17:48:53,Jatroth Divya ,18,Female,2-4 hours,Asthenopia ( Eye strain),No,Yes,30 min - 1 hour,1-2 hours,9,No,1,3,2,3,Yes
+11/10/2022 17:49:40,Yesho vardhan,17,Male,2-4 hours,No affects,No,No,30 min - 1 hour,30 min - 1 hour,7,No,3,3,2,3,Yes
+11/10/2022 17:50:35,Dasari Hymavathi ,19,Female,1-2 hours,Asthenopia ( Eye strain),No,No,30 min - 1 hour,30 min - 1 hour,11,No,2,2,1,2,Yes
+11/10/2022 17:51:31,KONDA BHAAVYA ,19,Female,4-8 hours,Headache,No,Yes,No physical activity,30 min - 1 hour,8hours,No,3,3,1,3,Yes
+11/10/2022 17:51:32,A.UMA DEVI,Age 19,Female,Less than a hour,No affects,Yes,No,Less than 30 min,30 min - 1 hour,7 hours,Yes,1,1,2,1,Yes
+11/10/2022 17:55:45,TDIBOINA MALLESWARI ,20,Female,4-8 hours,Sleep Deprivation,No,Yes,No physical activity,Less than 30 min,6,No,2,2,1,1,Yes
+11/10/2022 17:57:35,Y.Roshni,17,Female,1-2 hours,Asthenopia ( Eye strain),No,No,more than 2 hours,Less than 30 min,7,Yes,2,2,2,4,Yes
+11/10/2022 17:58:26,Kunchakara Ramya,20,Female,2-4 hours,Back pain / Neck pain,Yes,No,30 min - 1 hour,1-2 hours,7 hours,No,3,2,1,1,Yes
+11/10/2022 17:59:28,Y.Roshni,17,Female,1-2 hours,Asthenopia ( Eye strain),No,No,more than 2 hours,Less than 30 min,7,Yes,2,2,2,3,Yes
+11/10/2022 17:59:40,Rudru.pujitha ,19,Female,1-2 hours,No affects,No,No,30 min - 1 hour,more than 2 hours,8,No,3,1,3,3,Yes
+11/10/2022 18:00:50,K.Grace,19,Female,2-4 hours,Headache,No,Yes,No physical activity,Less than 30 min,7,No,1,2,1,1,Yes
+11/10/2022 18:00:54,Kunchakara Ramya,20,Female,2-4 hours,Back pain / Neck pain,No,No,30 min - 1 hour,1-2 hours,7 hours,No,3,2,1,1,Yes
+11/10/2022 18:01:26,Bellamkonda.Sri harshitha,19,Female,1-2 hours,No affects,No,Yes,Less than 30 min,Less than 30 min,8,No,2,1,1,2,Yes
+11/10/2022 18:03:29,K.Grace,19,Female,2-4 hours,Headache,No,Yes,No physical activity,Less than 30 min,7,No,1,1,2,1,Yes
+11/10/2022 18:03:31,Chandana,17,Female,Less than a hour,No affects,No,No,1 - 2 hours,Less than 30 min,9,No,3,3,4,4,Yes
+11/10/2022 18:04:35,K Hima Bindu ,18,Female,1-2 hours,"Asthenopia ( Eye strain), Back pain / Neck pain, Sleep Deprivation",Yes,No,30 min - 1 hour,Less than 30 min,9-10 hours,Yes,2,3,3,3,Yes
+11/10/2022 18:05:53,Chandana,17,Female,Less than a hour,No affects,No,Yes,30 min - 1 hour,Less than 30 min,9,No,3,4,4,4,Yes
+11/10/2022 18:08:16,Chandana,17,Female,Less than a hour,No affects,No,No,30 min - 1 hour,Less than 30 min,9,No,3,4,4,4,Yes
+11/10/2022 18:09:23,MUNNANGI REVATHI ,18,Female,4-8 hours,No affects,No,Yes,30 min - 1 hour,Less than 30 min,8,No,3,2,2,2,Yes
+11/10/2022 18:09:48,Karu praneeth ,18,Male,1-2 hours,Asthenopia ( Eye strain),No,Yes,30 min - 1 hour,Less than 30 min,9,No,2,2,2,2,Yes
+11/10/2022 18:10:28,Dasari Hymavathi ,19,Female,1-2 hours,Asthenopia ( Eye strain),No,Yes,30 min - 1 hour,30 min - 1 hour,9,No,2,2,2,2,Yes
+11/10/2022 18:10:47,Tagaram.saranya,18,Female,1-2 hours,Headache,No,Yes,1 - 2 hours,Less than 30 min,8 hours ,No,2,1,1,1,Yes
+11/10/2022 18:11:01,Jatroth Divya ,18,Female,1-2 hours,Asthenopia ( Eye strain),No,Yes,30 min - 1 hour,30 min - 1 hour,9,No,3,2,3,3,Yes
+11/10/2022 18:12:02,Sunitha latchi,18,Female,2-4 hours,No affects,No,Yes,30 min - 1 hour,more than 2 hours,8688120337,Yes,2,2,1,1,Yes
+11/10/2022 18:13:11,Thati lakshmi sirisha ,18,Female,1-2 hours,Asthenopia ( Eye strain),Yes,Yes,Less than 30 min,30 min - 1 hour,11hours ,No,2,2,1,1,Yes
+11/10/2022 18:14:43,K. VYSALI,19,Female,2-4 hours,Headache,Yes,Yes,No physical activity,30 min - 1 hour,8hours,Yes,1,2,3,2,Yes
+11/10/2022 18:14:57,B.Akshaykumar,21,Male,1-2 hours,Asthenopia ( Eye strain),No,Yes,30 min - 1 hour,Less than 30 min,9,No,2,2,2,2,Yes
+11/10/2022 18:15:03,Kasula jayasri,20,Female,2-4 hours,Headache,No,Yes,30 min - 1 hour,1-2 hours,1 1/2,Yes,3,2,4,3,Yes
+11/10/2022 18:16:23,Nandini. Reddy ,18,Female,1-2 hours,No affects,No,No,30 min - 1 hour,30 min - 1 hour,7,No,1,1,3,1,No
+11/10/2022 18:20:22,DANABOINA  LAVANYA ,18,Female,Less than a hour,Headache,No,No,No physical activity,Less than 30 min,9 hours,Yes,1,1,2,1,Yes
+11/10/2022 18:23:42,Erapani Prem Raju ,17,Male,2-4 hours,Asthenopia ( Eye strain),Yes,Yes,No physical activity,more than 2 hours,8 hours ,No,2,2,2,1,Yes
+11/10/2022 18:25:25,TUPAKULA.VENKATA TRIVENI ,19,Female,2-4 hours,Asthenopia ( Eye strain),No,Yes,Less than 30 min,Less than 30 min,8hours,Yes,3,4,3,3,Yes
+11/10/2022 18:25:27,SHAIK Farhana ,19,Female,2-4 hours,No affects,No,Yes,1 - 2 hours,30 min - 1 hour,6,No,2,2,2,2,Yes
+11/10/2022 18:25:28,ANNAPUREDDY DIVYASRI ,19,Female,2-4 hours,Headache,No,Yes,No physical activity,Less than 30 min,8(hours),Yes,3,3,4,3,Yes
+11/10/2022 18:25:30,GANJI DURGA JYOTHIRMAI,19,Female,2-4 hours,Asthenopia ( Eye strain),No,Yes,Less than 30 min,Less than 30 min,8,Yes,3,4,4,3,Yes
+11/10/2022 18:28:13,Rajolu Narendra ,20,Male,1-2 hours,No affects,No,No,30 min - 1 hour,Less than 30 min,8,No,2,3,2,3,Yes
+11/10/2022 18:33:03,M.Santa Lakshmi,18,Female,1-2 hours,Sleep Deprivation,No,Yes,Less than 30 min,Less than 30 min,8 hours,Yes,2,2,3,3,Yes
+11/10/2022 18:33:57,S.VENKATA KALYANI,19,Female,2-4 hours,Asthenopia ( Eye strain),No,Yes,30 min - 1 hour,Less than 30 min,7,No,2,2,2,1,Yes
+11/10/2022 18:39:32,U. Manohar,19,Male,1-2 hours,No affects,No,Yes,more than 2 hours,Less than 30 min,8hours,No,3,3,2,1,No
+11/10/2022 18:41:56,Kabothu roja,17,Female,1-2 hours,Sleep Deprivation,Yes,Yes,No physical activity,30 min - 1 hour,8 hours,No,1,2,3,1,No
+11/10/2022 18:42:24,P. Sunitha,18,Female,1-2 hours,Asthenopia ( Eye strain),No,No,30 min - 1 hour,Less than 30 min,8 hours,No,5,5,3,2,Yes
+11/10/2022 18:43:41,Kotthamasu Sowjanya,18,Female,Less than a hour,Asthenopia ( Eye strain),Yes,No,30 min - 1 hour,1-2 hours,8,No,1,3,2,2,Yes
+11/10/2022 18:44:45,Rajani danaboina,19,Female,Less than a hour,No affects,No,No,30 min - 1 hour,30 min - 1 hour,8 hours,No,2,3,3,3,No
+11/10/2022 18:45:21,P. Sunitha ,18,Female,Less than a hour,Asthenopia ( Eye strain),No,No,30 min - 1 hour,Less than 30 min,8,No,1,3,2,1,Yes
+11/10/2022 18:49:22,P. Sunitha,18,Female,Less than a hour,Asthenopia ( Eye strain),No,No,30 min - 1 hour,Less than 30 min,8,Yes,2,2,2,1,Yes
+11/10/2022 18:50:41,Kundara sailaja,18,Female,2-4 hours,No affects,No,No,30 min - 1 hour,Less than 30 min,8,No,4,3,4,4,Yes
+11/10/2022 18:52:08,rudru veera venkata gopi krushna,19,Male,1-2 hours,Back pain / Neck pain,No,Yes,30 min - 1 hour,1-2 hours,8houres,No,3,4,2,3,Yes
+11/10/2022 18:53:46,KAMBALA JAI BHAVANI,19,Female,2-4 hours,"Asthenopia ( Eye strain), Headache",Yes,Yes,30 min - 1 hour,Less than 30 min,7,Yes,3,3,3,3,No
+11/10/2022 18:54:21,A.sardis,19,Male,1-2 hours,No affects,No,Yes,more than 2 hours,1-2 hours,5 hours ,No,1,1,2,1,Yes
+11/10/2022 18:58:53,Sri naga devi ,18,Female,1-2 hours,Sleep Deprivation,No,Yes,No physical activity,Less than 30 min,8 hours,Yes,1,1,1,1,Yes
+11/10/2022 19:02:41,MACHARLA. JHANSI NAGA VALLI,19,Female,4-8 hours,Back pain / Neck pain,No,Yes,No physical activity,Less than 30 min,8,Yes,2,2,3,1,Yes
+11/10/2022 19:05:31,MOPARTHI DHANA SURYA,18,Male,2-4 hours,No affects,No,No,more than 2 hours,Less than 30 min,8,No,1,1,1,1,Yes
+11/10/2022 19:15:52,P. Sunitha,18,Female,Less than a hour,Asthenopia ( Eye strain),No,No,Less than 30 min,Less than 30 min,8,Yes,2,3,1,3,Yes
+11/10/2022 19:18:24,k.chandu subbarao ,19,Male,2-4 hours,No affects,No,Yes,1 - 2 hours,Less than 30 min,7,No,2,1,1,1,No
+11/10/2022 19:19:58,Appikatla venkata pranathi,18,Female,2-4 hours,Headache,No,Yes,No physical activity,Less than 30 min,10,No,2,2,3,1,No
+11/10/2022 19:22:55,Appikatla pravallika,19,Female,2-4 hours,Sleep Deprivation,No,Yes,30 min - 1 hour,Less than 30 min,7,No,3,3,2,3,No
+11/10/2022 19:27:06,Chinni. Akshaya,20,Female,1-2 hours,No affects,No,Yes,more than 2 hours,Less than 30 min,6,No,1,1,1,1,Yes
+11/10/2022 19:27:11,Chinta. Keerthi ,19,Female,1-2 hours,No affects,No,Yes,more than 2 hours,Less than 30 min,6,No,1,1,1,1,Yes
+11/10/2022 19:29:55,Aakanksha,19,Female,4-8 hours,"Asthenopia ( Eye strain), Headache, Back pain / Neck pain, Sleep Deprivation",Yes,Yes,Less than 30 min,Less than 30 min,6to7,No,1,1,3,3,Yes
+11/10/2022 19:30:08,Maddela snehalata,19,Female,1-2 hours,Headache,Yes,Yes,more than 2 hours,1-2 hours,8 hours,No,2,1,4,3,Yes
+11/10/2022 19:30:17,R. Aadi Lakshmi,18,Female,1-2 hours,Headache,No,No,30 min - 1 hour,Less than 30 min,8:00,No,1,1,1,1,Yes
+11/10/2022 19:30:34,M.MERCYRANI,19,Female,Less than a hour,Headache,No,No,30 min - 1 hour,Less than 30 min,8,No,1,1,1,1,Yes
+11/10/2022 19:31:20,Prathuru smiley,18,Female,1-2 hours,No affects,No,No,1 - 2 hours,Less than 30 min,7 - 8,No,3,2,4,3,Yes
+11/10/2022 19:32:31,A.Poojitha,18,Female,4-8 hours,"Asthenopia ( Eye strain), Headache, Back pain / Neck pain, Sleep Deprivation, Obesity due to sedentary lifestyle",Yes,Yes,No physical activity,30 min - 1 hour,7,Yes,3,3,2,5,Yes
+11/10/2022 19:32:42,Bhupathi Madhulatha ,19,Female,1-2 hours,Headache,No,Yes,No physical activity,Less than 30 min,8 hours,No,3,3,3,2,Yes
+11/10/2022 19:34:22,Bhupathi Madhu Latha ,19 years,Female,2-4 hours,Headache,No,Yes,No physical activity,Less than 30 min,8 hours,No,3,3,3,2,Yes
+11/10/2022 19:34:25,Maddela snehalata,19,Female,1-2 hours,"Asthenopia ( Eye strain), Headache",Yes,Yes,1 - 2 hours,30 min - 1 hour,8,No,3,3,3,3,Yes
+11/10/2022 19:41:14,Battu swapna,18,Female,1-2 hours,Asthenopia ( Eye strain),No,No,No physical activity,Less than 30 min,9,Yes,1,1,2,1,Yes
+11/10/2022 19:42:34,Gudise swetha ,20,Female,Less than a hour,No affects,No,No,No physical activity,30 min - 1 hour,8hours,Yes,2,2,3,1,Yes
+11/10/2022 19:42:35,Ekula Lavanya,20,Female,Less than a hour,Asthenopia ( Eye strain),No,No,No physical activity,30 min - 1 hour,8,Yes,2,2,3,1,Yes
+11/10/2022 19:44:53,Gudise swetha ,20,Female,Less than a hour,No affects,No,No,No physical activity,30 min - 1 hour,8hours,Yes,2,2,3,1,Yes
+11/10/2022 19:45:02,Ekula Lavanya,20,Female,Less than a hour,Asthenopia ( Eye strain),No,No,No physical activity,30 min - 1 hour,8,Yes,2,2,1,1,Yes
+11/10/2022 19:46:27,Ekula Lavanya,20,Female,Less than a hour,Asthenopia ( Eye strain),No,No,No physical activity,30 min - 1 hour,8,Yes,2,1,1,1,Yes
+11/10/2022 19:47:28,Gudise swetha ,20,Female,Less than a hour,No affects,No,No,No physical activity,30 min - 1 hour,8hours ,Yes,2,2,3,1,Yes
+11/10/2022 19:47:50,Ch.Deeksha,19,Female,1-2 hours,Asthenopia ( Eye strain),Yes,Yes,No physical activity,Less than 30 min,8h,No,3,2,2,3,Yes
+11/10/2022 19:47:51,Kavya. D,19,Female,1-2 hours,Asthenopia ( Eye strain),Yes,Yes,No physical activity,Less than 30 min,9,No,3,2,2,3,Yes
+11/10/2022 19:48:34,P.Nandini,19,Female,1-2 hours,No affects,No,No,30 min - 1 hour,Less than 30 min,8,No,3,2,2,3,No
+11/10/2022 19:55:20,Nandam sirivani,21,Female,2-4 hours,No affects,No,Yes,No physical activity,Less than 30 min,8,No,3,5,4,3,Yes
+11/10/2022 20:02:41,J.siva narmada,18,Female,1-2 hours,Asthenopia ( Eye strain),No,Yes,Less than 30 min,Less than 30 min,8,Yes,3,3,2,3,Yes
+11/10/2022 20:04:15,Gummalampati Sharon,17,Female,1-2 hours,No affects,No,No,No physical activity,Less than 30 min,9,No,2,2,1,1,No
+11/10/2022 20:04:26,S.nikhitha,17,Female,more than 8 hours,Headache,No,Yes,No physical activity,Less than 30 min,7,Yes,1,1,2,2,No
+11/10/2022 20:04:59,Bhuma Bhanu Kiran ,20,Male,1-2 hours,Back pain / Neck pain,No,Yes,No physical activity,Less than 30 min,8,No,2,3,2,2,No
+11/10/2022 20:08:47,A.Teja sai eswari,19,Female,2-4 hours,Headache,No,Yes,No physical activity,more than 2 hours,8,No,1,1,1,1,No
+11/10/2022 20:12:46,Anitha Danda,17,Female,1-2 hours,No affects,No,Yes,No physical activity,1-2 hours,8,No,2,2,2,1,No
+11/10/2022 20:13:55, Naga venkata vasantha lakshmi,19,Female,1-2 hours,No affects,No,Yes,30 min - 1 hour,1-2 hours,7,No,3,3,1,3,Yes
+11/10/2022 20:16:09,P.SAI SREE,18,Female,2-4 hours,Headache,Yes,No,No physical activity,30 min - 1 hour,9 HOURS,No,2,2,3,2,No
+11/10/2022 20:19:05,Bhuma kranthi kumari ,17,Female,1-2 hours,Headache,Yes,No,No physical activity,Less than 30 min,9,Yes,2,2,3,4,No
+11/10/2022 20:20:40,Thota rajani ,20,Female,1-2 hours,Headache,Yes,No,No physical activity,Less than 30 min,10 house ,No,1,1,1,1,Yes
+11/10/2022 20:28:27,sarma.santhosh,18,Male,Less than a hour,No affects,No,No,30 min - 1 hour,Less than 30 min,7 hours,No,1,1,1,1,Yes
+11/10/2022 20:31:46,Sarma santhosh,18,Male,Less than a hour,No affects,No,No,30 min - 1 hour,Less than 30 min,7 hours,No,1,1,1,1,Yes
+11/10/2022 20:34:46,M Sravani ,19,Female,1-2 hours,Back pain / Neck pain,No,Yes,Less than 30 min,30 min - 1 hour,8,No,1,2,4,2,Yes
+11/10/2022 20:35:23,Budurusanthosh,20,Male,Less than a hour,No affects,Yes,Yes,1 - 2 hours,Less than 30 min,12,Yes,1,1,1,1,Yes
+11/10/2022 20:38:44,Likhitha Ganta,18,Female,2-4 hours,"Headache, Back pain / Neck pain",Yes,Yes,Less than 30 min,Less than 30 min,8 hours,No,1,1,5,2,Yes
+11/10/2022 20:38:52,Pothuraju Jagadeesh ,19,Male,2-4 hours,"Asthenopia ( Eye strain), Headache, Sleep Deprivation",Yes,Yes,No physical activity,Less than 30 min,6 hours ,No,3,3,3,3,Yes
+11/10/2022 20:50:40,Vasa venkatrao,20,Male,4-8 hours,No affects,No,Yes,more than 2 hours,1-2 hours,6,No,3,3,2,2,Yes
+11/10/2022 20:50:49,Jalasutram Bindu ,19,Female,1-2 hours,No affects,No,Yes,Less than 30 min,Less than 30 min,7,No,2,2,1,1,Yes
+11/10/2022 20:53:11,Anjali devi,19,Female,2-4 hours,Headache,No,No,No physical activity,Less than 30 min,8 hours ,No,2,3,1,1,Yes
+11/10/2022 20:58:47,Ch. Jahnavi,19,Female,1-2 hours,Headache,Yes,No,more than 2 hours,Less than 30 min,7,No,1,3,4,5,Yes
+11/10/2022 21:22:54,Parabattina.Usha rani,18,Female,1-2 hours,Headache,No,No,30 min - 1 hour,1-2 hours,8 hours,No,1,4,1,1,Yes
+11/10/2022 21:24:00,J.phanindra kumar,19,Male,2-4 hours,Back pain / Neck pain,No,No,1 - 2 hours,1-2 hours,6 hours,No,2,2,3,3,Yes
+11/10/2022 21:26:49,J. Phanindra kumar,19,Male,1-2 hours,Back pain / Neck pain,No,Yes,1 - 2 hours,30 min - 1 hour,6 hours,No,2,3,3,3,Yes
+11/10/2022 21:30:22,Bhogi sirisha,19,Female,1-2 hours,Asthenopia ( Eye strain),No,Yes,Less than 30 min,Less than 30 min,10pm,Yes,3,3,3,3,Yes
+11/10/2022 21:30:51,Gunturu Deepthi ,19,Female,2-4 hours,No affects,No,No,No physical activity,Less than 30 min,8,Yes,2,3,2,2,Yes
+11/10/2022 21:33:08,Thammisetty Bharathi,18 years,Female,1-2 hours,Headache,Yes,Yes,30 min - 1 hour,Less than 30 min,8 hours,No,1,2,1,3,No
+11/10/2022 21:42:36,Ravikrindi. Pavani Lakshmi Venkata Anjani,19 years,Female,1-2 hours,Asthenopia ( Eye strain),Yes,No,Less than 30 min,Less than 30 min,8 hours,No,1,1,2,3,No
+11/10/2022 22:07:53,Pulimi sai manikanta ,18,Male,1-2 hours,No affects,No,No,30 min - 1 hour,more than 2 hours,8hours,No,2,3,1,1,Yes
+11/10/2022 22:15:19,M.William kery,20,Male,1-2 hours,No affects,Yes,Yes,30 min - 1 hour,Less than 30 min,8,No,3,3,3,3,Yes
+11/10/2022 22:22:55,Kanapala prakash Raju,18,Male,1-2 hours,Back pain / Neck pain,Yes,Yes,30 min - 1 hour,more than 2 hours,5hours ,No,3,3,3,2,Yes
+11/10/2022 22:26:22,Madhuri gurajala,19,Female,2-4 hours,Asthenopia ( Eye strain),No,Yes,No physical activity,Less than 30 min,8,No,2,3,2,2,Yes
+11/10/2022 22:45:35,Rahul ,19,Male,2-4 hours,No affects,No,Yes,more than 2 hours,Less than 30 min,9  hrs ,No,1,1,1,1,No
+11/10/2022 22:46:27,Nithya Lakshmi ,18,Female,2-4 hours,Asthenopia ( Eye strain),No,Yes,Less than 30 min,30 min - 1 hour,7,No,2,2,2,3,Yes
+11/11/2022 6:17:18,Sapavath Harika,18,Female,1-2 hours,No affects,No,No,30 min - 1 hour,30 min - 1 hour,7 hours ,No,2,1,1,1,Yes
+11/11/2022 6:20:30,Sapavath Harika ,18,Female,Less than a hour,No affects,No,No,30 min - 1 hour,30 min - 1 hour,7 hours ,No,1,1,1,1,Yes
+11/11/2022 6:37:34,pallanagalakshmi ,20,Female,4-8 hours,Headache,No,Yes,30 min - 1 hour,Less than 30 min,7hours,No,1,1,2,2,Yes
+11/11/2022 6:39:51,Goli. Naga Ramya,19,Female,1-2 hours,Headache,No,Yes,No physical activity,Less than 30 min,7 hours ,No,2,2,2,2,Yes
+11/11/2022 7:06:39,Sindhuja,17,Female,1-2 hours,No affects,No,No,30 min - 1 hour,Less than 30 min,8hr,No,1,1,1,2,Yes
+11/11/2022 7:27:00,BASHIRUNNISA BEGUM SHAIK,17,Female,1-2 hours,No affects,No,No,Less than 30 min,Less than 30 min,6 to 7 hours,No,1,1,1,1,No
+11/11/2022 7:43:16,PIDAPARTHI MOUNIKA,18,Female,1-2 hours,No affects,No,No,30 min - 1 hour,Less than 30 min,8,No,1,1,1,1,Yes
+11/11/2022 7:47:50,Kaki.Bhargavi,20,Female,2-4 hours,"Asthenopia ( Eye strain), Headache",Yes,Yes,No physical activity,1-2 hours,8,Yes,3,3,3,3,Yes
+11/11/2022 7:50:03,K.Bhargavi,20,Female,2-4 hours,Asthenopia ( Eye strain),Yes,Yes,No physical activity,1-2 hours,8,Yes,3,3,3,3,Yes
+11/11/2022 7:59:47,Desabiona kokila yadav ,19,Female,Less than a hour,No affects,No,Yes,Less than 30 min,Less than 30 min,7 hours,Yes,1,2,3,3,No
+11/11/2022 8:02:44,K Triveni,19,Female,Less than a hour,No affects,Yes,No,No physical activity,Less than 30 min,8,No,1,1,1,2,No
+11/11/2022 8:04:10,GADE LOHITHA SAI ,18,Female,2-4 hours,No affects,No,Yes,No physical activity,1-2 hours,7hours,Yes,3,2,1,2,No
+11/11/2022 8:08:02,Vaka Hema Shankar Goud ,18,Male,1-2 hours,No affects,Yes,No,30 min - 1 hour,more than 2 hours,10,No,1,1,5,5,Yes
+11/11/2022 8:14:59,MARRI. NAVYA ,17,Female,2-4 hours,Headache,No,Yes,No physical activity,30 min - 1 hour,8 hours ,Yes,2,2,2,2,Yes
+11/11/2022 8:32:09,S. Murali,19,Male,2-4 hours,No affects,No,Yes,Less than 30 min,1-2 hours,8,No,2,2,2,2,Yes
+11/11/2022 9:22:16,Kolusu chaitanya krishna,20,Male,4-8 hours,No affects,No,No,30 min - 1 hour,more than 2 hours,8,No,3,2,3,2,Yes
+11/11/2022 9:40:44,Trilochan ,20,Male,2-4 hours,"Asthenopia ( Eye strain), Sleep Deprivation, Obesity due to sedentary lifestyle",Yes,Yes,1 - 2 hours,30 min - 1 hour,4-5hrs,Yes,3,3,5,4,Yes
+11/11/2022 9:40:59,DHANUSH K B,19,Male,4-8 hours,Sleep Deprivation,Yes,Yes,1 - 2 hours,30 min - 1 hour,6-7 hours,No,3,3,3,2,Yes
+11/11/2022 9:41:19,K MANASWITHA ,19,Female,2-4 hours,"Asthenopia ( Eye strain), Headache",No,Yes,Less than 30 min,Less than 30 min,5-6 hours ,Yes,2,2,2,3,No
+11/11/2022 9:41:20,Julia,20,Female,4-8 hours,Headache,Yes,Yes,30 min - 1 hour,30 min - 1 hour,6,Yes,4,1,3,3,Yes
+11/11/2022 9:41:34,Roopesh ,20,Male,2-4 hours,Headache,Yes,Yes,Less than 30 min,Less than 30 min,7,Yes,4,3,4,3,Yes
+11/11/2022 9:41:39,Samuel prabakaran ,20,Male,2-4 hours,Asthenopia ( Eye strain),Yes,Yes,No physical activity,Less than 30 min,5hrs,Yes,3,2,2,2,Yes
+11/11/2022 9:41:58,M.YAKUBRAJ,21,Male,1-2 hours,Obesity due to sedentary lifestyle,Yes,Yes,1 - 2 hours,Less than 30 min,6,No,3,3,3,3,Yes
+11/11/2022 9:41:58,Praveen ,21,Male,4-8 hours,"Headache, Back pain / Neck pain, Sleep Deprivation",Yes,Yes,1 - 2 hours,1-2 hours,12-7,No,3,3,3,4,Yes
+11/11/2022 9:42:04,Muhammed Yaseer P,19,Male,4-8 hours,Back pain / Neck pain,No,Yes,30 min - 1 hour,Less than 30 min,6,No,1,3,3,3,Yes
+11/11/2022 9:42:18,NAVEEN RAJAN P,19,Male,4-8 hours,Asthenopia ( Eye strain),Yes,Yes,more than 2 hours,Less than 30 min,Max 7 hrs,Yes,4,4,5,4,Yes
+11/11/2022 9:42:21,T. R. Varshith Reddy,20,Male,2-4 hours,No affects,No,Yes,1 - 2 hours,Less than 30 min,6 to 7 hrs,No,2,3,3,3,Yes
+11/11/2022 9:42:28,Madhuri Mahima Chinthaguntla,19,Female,4-8 hours,Back pain / Neck pain,Yes,Yes,more than 2 hours,Less than 30 min,6-7 hours,No,2,1,1,1,No
+11/11/2022 9:42:45,Gilda George ,20,Female,4-8 hours,"Asthenopia ( Eye strain), Back pain / Neck pain, Sleep Deprivation",Yes,No,Less than 30 min,Less than 30 min,5-6,No,3,1,3,3,Yes
+11/11/2022 9:42:49,John stamos also i identity as a parrot and you didn’t give me my gender option ,John cena ,Female,more than 8 hours,"Asthenopia ( Eye strain), Headache, Back pain / Neck pain, Sleep Deprivation, Obesity due to sedentary lifestyle, No affects",Yes,Yes,more than 2 hours,more than 2 hours,24.5 hrs ,Yes,5,5,5,5,Yes
+11/11/2022 9:43:02,Shreekar Reddy,20,Male,more than 8 hours,No affects,No,Yes,1 - 2 hours,Less than 30 min,8,No,3,1,2,4,No
+11/11/2022 9:43:31,NITHISH M ,20,Male,1-2 hours,No affects,No,Yes,30 min - 1 hour,30 min - 1 hour,5-12 hrs,No,3,3,1,4,Yes
+11/11/2022 9:43:40,Krishna Raj ,20,Male,2-4 hours,"Headache, Sleep Deprivation",No,Yes,1 - 2 hours,1-2 hours,4-6 hrs,No,2,1,1,1,Yes
+11/11/2022 9:45:51,Gurunishal Saravanan ,20,Male,2-4 hours,Headache,No,Yes,30 min - 1 hour,Less than 30 min,7 hours ,Yes,2,2,2,2,Yes
+11/11/2022 9:48:46,Ronald Daniel,20,Male,2-4 hours,Asthenopia ( Eye strain),No,Yes,1 - 2 hours,Less than 30 min,8,No,3,2,1,3,No
+11/11/2022 9:48:59,HEMANTHKUMAR P B,20,Male,4-8 hours,"Headache, Back pain / Neck pain",Yes,Yes,30 min - 1 hour,more than 2 hours,6,No,3,3,1,2,Yes
+11/11/2022 9:50:25,D.Harish Sree,20,Male,4-8 hours,"Sleep Deprivation, No affects",No,Yes,more than 2 hours,more than 2 hours,5,No,4,3,5,3,Yes
+11/11/2022 9:55:04,Shaik shabana,19,Female,2-4 hours,"Asthenopia ( Eye strain), Headache, Back pain / Neck pain",Yes,Yes,1 - 2 hours,Less than 30 min,9,No,1,3,1,2,No
+11/11/2022 9:57:25,Greethika ,17,Female,2-4 hours,"Asthenopia ( Eye strain), Back pain / Neck pain, Sleep Deprivation",Yes,Yes,1 - 2 hours,30 min - 1 hour,6,No,2,1,1,3,Yes
+11/11/2022 9:57:43,Jones Delighten.S,17,Male,4-8 hours,"Asthenopia ( Eye strain), Headache, Sleep Deprivation, Obesity due to sedentary lifestyle",Yes,Yes,Less than 30 min,1-2 hours,5 hrs,Yes,4,2,4,2,Yes
+11/11/2022 9:58:14,ANGELIN JERUSHA A S,17,Female,4-8 hours,Asthenopia ( Eye strain),Yes,Yes,Less than 30 min,Less than 30 min,7,Yes,3,2,4,3,Yes
+11/11/2022 9:58:35,K P Neha,18,Female,2-4 hours,"Asthenopia ( Eye strain), Headache, Back pain / Neck pain",Yes,No,30 min - 1 hour,Less than 30 min,4-5,No,1,1,2,1,Yes
+11/11/2022 9:58:52,Prabhat A ,17,Male,2-4 hours,No affects,No,Yes,30 min - 1 hour,Less than 30 min,7,No,2,1,2,1,No
+11/11/2022 9:58:56,Paul Jerome .k,18,Male,1-2 hours,Sleep Deprivation,Yes,Yes,more than 2 hours,30 min - 1 hour,6 hours,Yes,2,3,5,1,No
+11/11/2022 9:58:59,Sreeja Beereddy ,18,Female,2-4 hours,"Headache, Back pain / Neck pain",Yes,Yes,No physical activity,Less than 30 min,7,Yes,3,3,3,2,Yes
+11/11/2022 9:59:08,Jagmohan ,19,Male,2-4 hours,No affects,No,Yes,more than 2 hours,30 min - 1 hour,5-6hour,Yes,3,2,3,3,Yes
+11/11/2022 9:59:17,M Nikilkumar ,18,Male,1-2 hours,No affects,No,No,30 min - 1 hour,Less than 30 min,4-5,No,2,2,2,1,Yes
+11/11/2022 9:59:28,Jenitha Blesy A,17,Female,1-2 hours,Back pain / Neck pain,No,Yes,No physical activity,Less than 30 min,6hrs,No,2,2,3,2,Yes
+11/11/2022 9:59:37,Praisy ,17,Female,2-4 hours,Headache,No,Yes,Less than 30 min,Less than 30 min,8,No,2,2,1,1,No
+11/11/2022 10:00:03,John Thomas,17,Male,2-4 hours,"Asthenopia ( Eye strain), Back pain / Neck pain",No,Yes,more than 2 hours,Less than 30 min,8,Yes,3,3,3,3,No
+11/11/2022 10:00:07,D.Silvester Anto,17,Male,1-2 hours,"Asthenopia ( Eye strain), Headache",No,No,Less than 30 min,30 min - 1 hour,2 hours,No,2,3,2,2,No
+11/11/2022 10:00:08,V.Wilfred,17,Male,1-2 hours,No affects,No,No,Less than 30 min,30 min - 1 hour,5,No,1,1,1,1,No
+11/11/2022 10:00:13,Shaun Sunny,18,Male,2-4 hours,Back pain / Neck pain,No,No,1 - 2 hours,Less than 30 min,6 to 7 hours,No,3,2,1,3,No
+11/11/2022 10:00:18,Sharrach wesly s,17,Male,2-4 hours,Headache,No,Yes,1 - 2 hours,Less than 30 min,6-8 hrs,Yes,3,2,2,2,Yes
+11/11/2022 10:00:28,MILAN,18,Male,4-8 hours,Headache,Yes,Yes,1 - 2 hours,30 min - 1 hour,7,Yes,2,3,3,2,Yes
+11/11/2022 10:00:44,Varimadugu Bharath Kumar Reddy ,17,Male,1-2 hours,Sleep Deprivation,Yes,Yes,1 - 2 hours,more than 2 hours,7,Yes,3,2,5,2,Yes
+11/11/2022 10:00:49,DINESH KUMAR P,17,Male,2-4 hours,"Headache, Back pain / Neck pain",Yes,Yes,30 min - 1 hour,Less than 30 min,8,Yes,4,3,3,3,Yes
+11/11/2022 10:00:49,Robin,17,Male,more than 8 hours,No affects,No,Yes,1 - 2 hours,more than 2 hours,5,Yes,4,3,3,4,Yes
+11/11/2022 10:00:50,Nayunisaicharanteja,18,Male,1-2 hours,No affects,No,Yes,more than 2 hours,1-2 hours,6,No,3,2,1,2,No
+11/11/2022 10:01:17,Ben,18,Male,1-2 hours,No affects,No,Yes,1 - 2 hours,Less than 30 min,6-7hrs,Yes,3,2,3,2,No
+11/11/2022 10:01:46,Krishnapriya.S,17,Female,2-4 hours,Headache,No,Yes,No physical activity,Less than 30 min,5-6 hours,Yes,3,1,2,1,No
+11/11/2022 10:01:54,Rebisha Raja Prabavathy.JG ,18,Female,4-8 hours,"Asthenopia ( Eye strain), Headache, Sleep Deprivation",Yes,Yes,30 min - 1 hour,Less than 30 min,7,No,3,2,5,4,Yes
+11/11/2022 10:02:20,Riya Ann Saji,17,Female,4-8 hours,"Asthenopia ( Eye strain), Headache",No,Yes,Less than 30 min,30 min - 1 hour,6 or 7,No,3,3,3,3,Yes
+11/11/2022 10:02:22,Beneesh .S,17,Male,4-8 hours,Sleep Deprivation,Yes,Yes,Less than 30 min,Less than 30 min,5-7,No,4,3,4,3,Yes
+11/11/2022 10:02:29,Melvin joshua,17,Male,2-4 hours,"Asthenopia ( Eye strain), Headache, Back pain / Neck pain, Sleep Deprivation",Yes,Yes,Less than 30 min,30 min - 1 hour,4-8 hours,Yes,3,3,3,3,No
+11/11/2022 10:02:47,DINOSAM,18,Male,4-8 hours,"Asthenopia ( Eye strain), Headache, Back pain / Neck pain, Sleep Deprivation",No,Yes,No physical activity,30 min - 1 hour,7,Yes,4,5,1,1,Yes
+11/11/2022 10:02:48,Sathya,18,Female,4-8 hours,Back pain / Neck pain,No,Yes,No physical activity,Less than 30 min,6 to 7 hours,No,1,1,3,2,Yes
+11/11/2022 10:03:59,ARUN KUMAR C,18,Male,2-4 hours,No affects,No,Yes,1 - 2 hours,Less than 30 min,8-9 hrs,No,2,3,3,2,Yes
+11/11/2022 10:04:05,R Praisy Serafina ,18,Female,1-2 hours,Back pain / Neck pain,No,No,1 - 2 hours,Less than 30 min,6,Yes,2,1,3,4,No
+11/11/2022 10:04:33,Rathina Kumar ,18,Male,2-4 hours,"Asthenopia ( Eye strain), Headache, Sleep Deprivation",Yes,Yes,Less than 30 min,Less than 30 min,5,No,3,3,4,4,Yes
+11/11/2022 10:04:35,S.Keffalina,19,Female,2-4 hours,"Headache, Back pain / Neck pain, Obesity due to sedentary lifestyle",Yes,Yes,Less than 30 min,30 min - 1 hour,5-6,Yes,3,1,2,5,Yes
+11/11/2022 10:04:37,Mithun. R,19,Male,2-4 hours,No affects,No,No,more than 2 hours,Less than 30 min,7,No,1,2,2,2,Yes
+11/11/2022 10:04:42,K.Greeshma,18,Female,2-4 hours,"Headache, Sleep Deprivation",Yes,Yes,No physical activity,Less than 30 min,6 or 7,Yes,3,1,4,2,Yes
+11/11/2022 10:05:28,LAUREL THEODORE.J,19,Male,2-4 hours,Sleep Deprivation,Yes,Yes,Less than 30 min,Less than 30 min,5,Yes,4,4,4,4,No
+11/11/2022 10:05:29,PRATIKSHA SHREYA BAXLA,20,Female,more than 8 hours,Back pain / Neck pain,No,Yes,Less than 30 min,Less than 30 min,6,Yes,2,2,2,3,Yes
+11/11/2022 10:05:33,GURRAMJEEVIKA ,18,Female,4-8 hours,No affects,No,Yes,30 min - 1 hour,30 min - 1 hour,5,No,4,4,2,4,Yes
+11/11/2022 10:05:48,KOWSEGA,18,Female,2-4 hours,"Asthenopia ( Eye strain), Headache, Back pain / Neck pain, Sleep Deprivation",Yes,Yes,30 min - 1 hour,30 min - 1 hour,7,Yes,3,3,2,4,Yes
+11/11/2022 10:05:56,J. Anisha Caroline,19,Female,2-4 hours,No affects,Yes,Yes,Less than 30 min,Less than 30 min,5 to 6,No,3,2,1,2,No
+11/11/2022 10:05:59,Kushmitha S,19,Female,4-8 hours,"Headache, Back pain / Neck pain, Sleep Deprivation",No,Yes,more than 2 hours,Less than 30 min,6,Yes,3,3,3,3,Yes
+11/11/2022 10:06:14,Medha P,19,Female,1-2 hours,Headache,Yes,No,30 min - 1 hour,Less than 30 min,6hrs,No,1,2,3,2,Yes
+11/11/2022 10:06:31,Ancel Ishita S ,18,Female,2-4 hours,Headache,Yes,Yes,1 - 2 hours,Less than 30 min,6,Yes,3,1,1,2,Yes
+11/11/2022 10:06:41,K.BESTON FRANKLIN,18,Male,1-2 hours,Headache,No,No,30 min - 1 hour,Less than 30 min,8,No,2,2,2,2,No
+11/11/2022 10:07:23,Priyadharshini.S,19,Female,2-4 hours,"Headache, Back pain / Neck pain, Sleep Deprivation",Yes,Yes,30 min - 1 hour,1-2 hours,6hrs,Yes,4,3,3,3,Yes
+11/11/2022 10:07:58,Reban ,18,Male,more than 8 hours,No affects,Yes,Yes,No physical activity,Less than 30 min,6,No,3,2,3,3,Yes
+11/11/2022 10:08:04,RIYAN M GEORGE,19,Male,more than 8 hours,No affects,No,No,more than 2 hours,more than 2 hours,6,No,1,1,1,1,Yes
+11/11/2022 10:08:15,Mohamed Thaha M,19,Male,2-4 hours,Headache,Yes,Yes,Less than 30 min,Less than 30 min,7,Yes,4,3,3,3,Yes
+11/11/2022 10:08:51,Adley Lamuel S ,19,Male,4-8 hours,No affects,Yes,Yes,more than 2 hours,Less than 30 min,6-7,Yes,4,3,3,3,Yes
+11/11/2022 10:09:58,ISHAN CHASKAR,19,Male,2-4 hours,No affects,Yes,Yes,1 - 2 hours,Less than 30 min,5-6,No,3,3,2,2,No
+11/11/2022 10:11:27,ANITA THANGAM,18,Female,2-4 hours,"Headache, Back pain / Neck pain",Yes,Yes,Less than 30 min,Less than 30 min,4-5 hrs,Yes,3,3,3,3,Yes
+11/11/2022 10:12:22,Diddikunta Mahesh ,20,Male,4-8 hours,"Back pain / Neck pain, Sleep Deprivation",Yes,Yes,No physical activity,Less than 30 min,4 hours,Yes,3,1,1,1,Yes
+11/11/2022 10:12:40,Manoah Noble,18,Male,4-8 hours,"Asthenopia ( Eye strain), Headache, Back pain / Neck pain, Sleep Deprivation",Yes,Yes,more than 2 hours,Less than 30 min,7,Yes,3,2,1,4,No
+11/11/2022 10:14:58,Varshini.G,19,Female,1-2 hours,"Headache, Sleep Deprivation",Yes,Yes,30 min - 1 hour,Less than 30 min,4-5,Yes,3,4,3,3,Yes
+11/11/2022 10:31:33,Mounika jaldi,19,Female,2-4 hours,No affects,Yes,Yes,30 min - 1 hour,30 min - 1 hour,6,No,2,3,1,2,Yes
+11/11/2022 10:37:10,Mohammad.Arshin,19,Female,Less than a hour,Asthenopia ( Eye strain),Yes,Yes,Less than 30 min,Less than 30 min,8 hours ,Yes,1,3,1,1,No
+11/11/2022 10:38:42,S. Divya,18,Female,2-4 hours,No affects,No,Yes,No physical activity,Less than 30 min,7-8hrs,No,3,2,1,1,No
+11/11/2022 10:40:13,Haseena  begum shaik,18,Female,1-2 hours,No affects,No,Yes,No physical activity,Less than 30 min,8,Yes,3,2,1,3,No
+11/11/2022 10:40:14,Konduru Surya,19,Male,Less than a hour,"Asthenopia ( Eye strain), No affects",No,No,30 min - 1 hour,Less than 30 min,8 Hours ,No,1,2,3,2,No
+11/11/2022 12:29:16,TNagaraju,20,Male,1-2 hours,No affects,No,Yes,Less than 30 min,Less than 30 min,8,No,2,2,2,2,No
+11/11/2022 15:01:52,Veeranki hema latha,18,Female,1-2 hours,No affects,No,Yes,more than 2 hours,Less than 30 min,10:30to5:00,No,1,1,1,1,Yes
+11/11/2022 15:04:44,Nakka Mohana Krishna ,19,Male,1-2 hours,Asthenopia ( Eye strain),No,No,No physical activity,30 min - 1 hour,8,No,2,4,2,2,Yes
+11/11/2022 15:25:43,Badrisaikumar ,20,Male,more than 8 hours,"Asthenopia ( Eye strain), Headache, Back pain / Neck pain",Yes,Yes,30 min - 1 hour,1-2 hours,9,Yes,3,3,3,3,Yes
+11/11/2022 16:36:31,Kanapala prakash Raju ,18,Male,1-2 hours,Back pain / Neck pain,Yes,Yes,more than 2 hours,1-2 hours,5hours ,Yes,3,3,3,3,Yes
+11/11/2022 16:59:24,Ch. Jahnavi,19,Female,1-2 hours,Headache,Yes,No,30 min - 1 hour,Less than 30 min,6,No,1,2,1,3,Yes
+11/11/2022 17:09:57,Gandikota. Balaji siva manikanta,18,Male,1-2 hours,No affects,Yes,Yes,1 - 2 hours,more than 2 hours,8 hours,No,2,2,1,3,No
+11/11/2022 17:10:56,L. SANTHI,18,Female,2-4 hours,Back pain / Neck pain,Yes,No,No physical activity,Less than 30 min,9hours ,No,2,2,2,3,No
+11/11/2022 17:19:02,Chaitanya Krishna kolusu ,19,Male,4-8 hours,No affects,No,No,30 min - 1 hour,1-2 hours,8,Yes,2,2,2,3,Yes
+11/11/2022 17:19:50,Sindhuja,17,Female,1-2 hours,No affects,No,No,30 min - 1 hour,30 min - 1 hour,8hr,No,2,1,2,3,No
+11/11/2022 17:28:10,Vaka Hema Shankar Goud ,18,Male,1-2 hours,No affects,Yes,No,more than 2 hours,30 min - 1 hour,9,No,1,1,3,5,Yes
+11/11/2022 17:47:48,Bitra Vishnu sai ,18,Male,1-2 hours,No affects,No,Yes,1 - 2 hours,Less than 30 min,9,No,1,1,1,1,Yes
+11/11/2022 18:03:04,Bhargavi Reddy,20,Female,4-8 hours,"Headache, Back pain / Neck pain",Yes,Yes,No physical activity,30 min - 1 hour,9,No,3,5,3,4,Yes
+11/11/2022 18:27:08,V.Deepa,18,Female,2-4 hours,"Asthenopia ( Eye strain), Headache, Back pain / Neck pain",No,No,No physical activity,30 min - 1 hour,9 to 11,No,2,2,2,3,No
+11/11/2022 18:37:29,K.Sai Manasa,18 years,Female,Less than a hour,No affects,No,No,30 min - 1 hour,Less than 30 min, 6 hours,No,1,3,1,1,Yes
+11/11/2022 18:56:22,M Dola Ganesh ,18,Male,2-4 hours,"Asthenopia ( Eye strain), Headache",No,Yes,Less than 30 min,Less than 30 min,7 to 8 hours ,Yes,3,3,2,2,Yes
+11/11/2022 20:10:17,Uhanjali,19,Female,2-4 hours,No affects,No,Yes,No physical activity,Less than 30 min,9,No,3,3,3,2,No
+11/11/2022 21:57:07,Lokesh ,19,Male,2-4 hours,"Asthenopia ( Eye strain), Headache, Back pain / Neck pain",Yes,No,30 min - 1 hour,Less than 30 min,7 To 8 Hours ,Yes,4,3,3,3,Yes
+11/11/2022 23:56:17,kodali venkatesh,20,Male,2-4 hours,No affects,No,No,Less than 30 min,Less than 30 min,10 Hours,No,2,3,3,3,No
+11/12/2022 6:57:12,Nemalipuri. Pushpa Akshaka,20,Female,Less than a hour,Back pain / Neck pain,No,No,Less than 30 min,Less than 30 min,8,No,2,1,1,1,Yes
+11/12/2022 9:35:13,P.yasaswini ,19,Female,1-2 hours,Headache,No,No,Less than 30 min,Less than 30 min,8hours,No,1,1,1,1,No
+11/12/2022 11:56:56,Srishti Dhruv Singh ,21,Female,4-8 hours,No affects,Yes,Yes,30 min - 1 hour,Less than 30 min,6,Yes,3,4,1,3,Yes
+11/12/2022 13:11:02,P . Gayatri,19,Female,1-2 hours,No affects,No,Yes,No physical activity,Less than 30 min,8,No,1,1,1,1,Yes
+11/12/2022 13:28:31,S. Shivani,19,Female,2-4 hours,Headache,No,No,30 min - 1 hour,1-2 hours,6hours,No,1,1,1,1,Yes
+11/12/2022 13:31:01,S.Shivani,19,Female,2-4 hours,Headache,No,No,1 - 2 hours,1-2 hours,6hours,No,1,1,1,1,Yes
+11/12/2022 16:43:48,Rahul,19,Male,1-2 hours,No affects,No,Yes,No physical activity,1-2 hours,9,Yes,2,2,2,2,Yes
+11/12/2022 21:17:01,Kavuri pradeep ,17,Male,1-2 hours,No affects,Yes,No,1 - 2 hours,more than 2 hours,10,No,4,4,4,3,Yes
+11/12/2022 22:24:20,Bulla kalpana ,19years,Female,Less than a hour,Headache,No,Yes,1 - 2 hours,more than 2 hours,9,No,1,2,5,2,Yes
+11/12/2022 22:27:18,Bull kalpana ,19,Female,1-2 hours,Headache,Yes,Yes,1 - 2 hours,more than 2 hours,9,No,3,2,2,2,Yes
+11/12/2022 23:14:30,Nishit,21,Male,more than 8 hours,Headache,Yes,Yes,more than 2 hours,Less than 30 min,7,No,4,1,1,3,No
+11/13/2022 11:45:54,Kesanasetti Sudha rani ,20,Female,4-8 hours,No affects,No,Yes,1 - 2 hours,1-2 hours,8 hours ,No,3,3,1,2,Yes
+11/13/2022 11:45:55,Potlabathina Uma ,19,Female,4-8 hours,No affects,No,Yes,1 - 2 hours,30 min - 1 hour,7,No,3,3,2,3,Yes
+11/13/2022 12:20:34,D.Anuradha ,20,Female,1-2 hours,Headache,No,No,1 - 2 hours,30 min - 1 hour,10,No,2,1,2,1,Yes
+11/13/2022 23:56:11,JOLDIN DINTIS ,21,Male,4-8 hours,"Headache, Back pain / Neck pain",Yes,Yes,1 - 2 hours,Less than 30 min,7,Yes,3,2,4,2,Yes
+11/13/2022 23:57:11,Jatin Joseph,23,Male,2-4 hours,Obesity due to sedentary lifestyle,Yes,No,1 - 2 hours,Less than 30 min,7-8 hrs,No,2,1,1,3,No
+11/14/2022 1:51:55,Mohit Mall,21,Male,2-4 hours,Back pain / Neck pain,No,Yes,1 - 2 hours,Less than 30 min,6,No,4,1,2,3,No
+11/14/2022 5:44:05,MRS. SAJEELA MASIH ,54,Female,1-2 hours,No affects,No,Yes,30 min - 1 hour,Less than 30 min,5-6 ,No,1,1,1,1,No
+11/14/2022 12:00:59,Sharon,17,Female,1-2 hours,Headache,Yes,No,Less than 30 min,Less than 30 min,6,No,3,2,2,2,Yes
+11/14/2022 18:30:24,Damarla Kowmika,19,Female,2-4 hours,Asthenopia ( Eye strain),No,No,30 min - 1 hour,Less than 30 min,7,No,1,2,1,1,Yes
+11/14/2022 18:35:18,Damarla Kowmika,19,Female,1-2 hours,Asthenopia ( Eye strain),No,No,30 min - 1 hour,Less than 30 min,7,No,1,2,1,1,Yes
+11/15/2022 19:19:37,Rangisetti. Sri latha,19,Female,1-2 hours,Asthenopia ( Eye strain),No,Yes,Less than 30 min,more than 2 hours,8,No,1,1,1,1,Yes
+11/15/2022 21:16:20,Rani,18,Female,1-2 hours,Headache,Yes,Yes,No physical activity,Less than 30 min,8 hours,Yes,1,3,1,1,Yes
+11/17/2022 12:49:42,Sanam Jyothi ,20,Female,2-4 hours,Headache,Yes,Yes,30 min - 1 hour,1-2 hours,9,Yes,4,2,2,2,No
+11/18/2022 7:26:13,BOINA RATNA PRAKASH ,20,Male,more than 8 hours,No affects,No,Yes,more than 2 hours,30 min - 1 hour,9pm to 6 am,No,3,3,4,5,Yes
+11/18/2022 14:23:16,Bapanapalli Mounika ,20,Female,1-2 hours,Headache,No,Yes,Less than 30 min,more than 2 hours,8,Yes,1,1,2,2,Yes
+11/19/2022 17:36:57,N. Divya,20,Female,2-4 hours,Headache,Yes,Yes,30 min - 1 hour,30 min - 1 hour,6,No,1,2,2,1,Yes
+11/19/2022 18:57:59,Sowjanya,20,Female,2-4 hours,Headache,Yes,Yes,1 - 2 hours,Less than 30 min,7hours,No,3,3,3,3,Yes
+11/19/2022 19:18:08,Muli. Anusha,21,Female,1-2 hours,Headache,Yes,Yes,30 min - 1 hour,Less than 30 min,6hours,No,2,2,2,2,Yes
+11/21/2022 8:12:34,Pragada. Nandini Devi. ,20,Female,more than 8 hours,No affects,No,Yes,No physical activity,30 min - 1 hour,7,Yes,3,3,3,3,No
+11/22/2022 14:45:35,Chiluvuru. Jansi,19,Female,1-2 hours,Headache,No,Yes,30 min - 1 hour,30 min - 1 hour,8,No,2,2,3,2,Yes
+11/26/2022 14:26:27,Kamineni Priyanka,20,Female,1-2 hours,Headache,No,No,more than 2 hours,1-2 hours,8,No,2,3,2,3,No
+11/30/2022 7:25:59,Macharla. Ratna Chandrika ,22,Female,4-8 hours,Headache,Yes,Yes,Less than 30 min,30 min - 1 hour,8,Yes,3,5,3,3,Yes
